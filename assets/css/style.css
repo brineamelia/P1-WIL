@@ -1,1 +1,13 @@
 body {background-color: pink;}
+h1 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;}
+
+    #logo {
+        float: left;
+        font-size: 250%;
+        margin-left: 2px;
+    }
+
