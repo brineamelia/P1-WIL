@@ -4,14 +4,20 @@ body {
 }
 
 h1 {
-    
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;}
+    
+h2 {
+        font-size: 1rem;
+    }
+  p {
+        font-size: 16px;
+    }
 
-    #logo {
+    .logo {
         float: left;
-        font-size: 200%;
+        font-size: 1.5rem;
         margin-left: 2px;
         font-weight: 900;
     }
@@ -90,4 +96,8 @@ h1 {
 }
 .bottomnav a:hover {
     text-decoration: underline;
+}
+
+.p1 {
+    font-size: 0.5rem;
 }
