@@ -54,7 +54,14 @@ h2 {
     text-decoration: underline;
 }
 
+.why {
+    font-size: 0.75rem;
+}
 /*Image positioning leaders.html*/
+
+.title {
+    text-decoration: underline;
+}
 
 #safra-catz img[src="assets/images/safracatz.png"] {
     border-radius: 50%; }
@@ -65,7 +72,32 @@ h2 {
         #whitney-wolfe-herd img[src="assets/images/whitneywolfeherd .png"] {
             border-radius: 50%; }
 
-
+            /*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate3*/
+            .button {
+                padding: 15px 25px;
+                font-size: 24px;
+                text-align: center;
+                cursor: pointer;
+                outline: none;
+                color: #fff;
+                background-color: grey;
+                border: none;
+                border-radius: 15px;
+                box-shadow: 0 6px #57585c;
+                font:'Roboto';
+              }
+              
+              .button:hover {background-color: pink}
+              
+              .button:active {
+                background-color: grey;
+                box-shadow: 0 5px grey;
+                transform: translateY(4px);
+              }
+.button-wrapper {
+    display:flex;
+    justify-content: center;
+}
 /* styling for bottom nav bar*/
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_bottom_nav*/
 
