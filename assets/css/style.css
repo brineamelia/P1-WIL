@@ -1,5 +1,5 @@
 body {
-    background-color: pink;
+    background-color: whitesmoke;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -48,3 +48,51 @@ h1 {
 .topnav a:hover {
     text-decoration: underline;
 }
+
+/*Image positioning leaders.html*/
+
+#safra-catz img[src="assets/images/safracatz.png"] {
+    border-radius: 50%; }
+
+    #maggie-timoney img[src="assets/images/maggietimoney.png"] {
+        border-radius: 50%; }
+
+        #whitney-wolfe-herd img[src="assets/images/whitneywolfeherd .png"] {
+            border-radius: 50%; }
+
+
+/* styling for bottom nav bar*/
+<!-- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_bottom_nav --!>
+
+.bottomnav {
+    overflow: hidden;
+    background-color:black
+    ;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+.bottomnav a {
+    float: left;
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .bottomnav a:hover {
+    background: #f1f1f1;
+    color: black;
+  }
+  
+  .bottomnav a.active {
+    background-color: #04AA6D;
+    color: gray;
+  }
+  
+  .main {
+    padding: 16px;
+    margin-bottom: 30px;
+  }
