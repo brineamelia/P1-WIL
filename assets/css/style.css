@@ -3,7 +3,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-
 h1 {
     
     text-transform: uppercase;
@@ -62,37 +61,33 @@ h1 {
 
 
 /* styling for bottom nav bar*/
-<!-- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_bottom_nav --!>
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_bottom_nav*/
 
+/* Add a black background color to the top navigation */
 .bottomnav {
     overflow: hidden;
-    background-color:black
-    ;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    display: flex;
+    justify-content: center;
   }
-.bottomnav a {
+  
+  /* Style the links inside the navigation bar */
+  .bottomnav a {
     float: left;
     display: block;
-    color: grey;
+    color: #57585c;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #252525;
+    
+    
   }
-  
-  .bottomnav a:hover {
-    background: #f1f1f1;
-    color: black;
-  }
-  
-  .bottomnav a.active {
-    background-color: #04AA6D;
-    color: gray;
-  }
-  
-  .main {
-    padding: 16px;
-    margin-bottom: 30px;
-  }
+
+.bottonnav a:hover {
+    text-decoration: underline;
+}
+.bottomnav a:hover {
+    text-decoration: underline;
+}
