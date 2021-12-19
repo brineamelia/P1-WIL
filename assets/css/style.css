@@ -1,135 +1,141 @@
 body {
-    background-color: whitesmoke;
-    font-family: 'Roboto', sans-serif;
+  background-color: whitesmoke;
+  font-family: "Roboto", sans-serif;
 }
 
 h1 {
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;}
-    
-h2 {
-        font-size: 1rem;
-    }
-  p {
-        font-size: 16px;
-    }
-
-    .logo {
-        float: left;
-        font-size: 1.5rem;
-        margin-left: 2px;
-        font-weight: 900;
-    }
-
-.img-container {
-    background-image: url('../images/hero-img.jpg');
-    height: 25vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-     
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #252525;
 }
 
-/* Add a black background color to the top navigation */
+. wil a {
+  font-family: 'Roboto';
+  font-size: large;
+}
+
+h2 {
+  font-size: 1rem;
+}
+p {
+  font-size: 16px;
+}
+
+.logo {
+  float: left;
+  font-size: 1.5rem;
+  margin-left: 2px;
+  font-weight: 900;
+}
+
+.img-container {
+  background-image: url("../images/hero-img.jpg");
+  height: 25vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .topnav {
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: left;
-    display: block;
-    color: #57585c;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #57585c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
 
 .topnav a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .why {
-    font-size: 0.75rem;
+  font-size: 0.75rem;
 }
 /*Image positioning leaders.html*/
 
 .title {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 #safra-catz img[src="assets/images/safracatz.png"] {
-    border-radius: 50%; }
+  border-radius: 50%;
+}
 
-    #maggie-timoney img[src="assets/images/maggietimoney.png"] {
-        border-radius: 50%; }
+#maggie-timoney img[src="assets/images/maggietimoney.png"] {
+  border-radius: 50%;
+}
 
-        #whitney-wolfe-herd img[src="assets/images/whitneywolfeherd .png"] {
-            border-radius: 50%; }
+#whitney-wolfe-herd img[src="assets/images/whitneywolfeherd .png"] {
+  border-radius: 50%;
+}
 
-            /*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate3*/
-            .button {
-                padding: 15px 25px;
-                font-size: 24px;
-                text-align: center;
-                cursor: pointer;
-                outline: none;
-                color: #fff;
-                background-color: grey;
-                border: none;
-                border-radius: 15px;
-                box-shadow: 0 6px #57585c;
-                font:'Roboto';
-              }
-              
-              .button:hover {background-color: pink}
-              
-              .button:active {
-                background-color: grey;
-                box-shadow: 0 5px grey;
-                transform: translateY(4px);
-              }
+/*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate3*/
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 6px #57585c;
+  font: "Roboto";
+}
+
+.button:hover {
+  background-color: pink;
+}
+
+.button:active {
+  background-color: grey;
+  box-shadow: 0 5px grey;
+  transform: translateY(4px);
+}
 .button-wrapper {
-    display:flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 /* styling for bottom nav bar*/
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_bottom_nav*/
 
 /* Add a black background color to the top navigation */
 .bottomnav {
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .bottomnav a {
-    float: left;
-    display: block;
-    color: #57585c;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 12px;
-    text-transform: uppercase;
-    color: #252525;
-    
-    
-  }
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+/* Style the links inside the navigation bar */
+.bottomnav a {
+  float: left;
+  display: block;
+  color: #57585c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #252525;
+}
 
 .bottonnav a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 .bottomnav a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .p1 {
-    font-size: 0.5rem;
+  font-size: 0.5rem;
 }
