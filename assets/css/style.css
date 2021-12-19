@@ -73,15 +73,13 @@ p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.pool {
-  font-size: 1rem;
-}
-
 /*Image positioning leaders.html*/
 
 .title {
   text-decoration: underline;
 }
+
+/*https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image html link added to the images of leaders*/
 
 #safra-catz img[src="assets/images/safracatz.png"] {
   border-radius: 50%;
@@ -155,4 +153,10 @@ p {
 
 .p1 {
   font-size: 0.5rem;
+}
+
+.mc-conclusion {font-size: 1rem;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
