@@ -9,14 +9,18 @@ h1 {
   color: #252525;
 }
 
-. wil a {
-  font-family: 'Roboto';
+.wil {
+  font-family: 'Roboto'
   font-size: large;
+  text-decoration: none
+
+  
 }
 
 h2 {
   font-size: 1rem;
 }
+
 p {
   font-size: 16px;
 }
@@ -60,6 +64,17 @@ p {
 .why {
   font-size: 0.75rem;
 }
+
+.michelle {
+  font-size: 1rem;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pool {
+  font-size: 1rem;
+}
+
 /*Image positioning leaders.html*/
 
 .title {
