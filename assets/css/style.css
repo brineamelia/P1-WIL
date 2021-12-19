@@ -10,9 +10,10 @@ h1 {
 }
 
 .wil {
-  font-family: 'Roboto'
-  font-size: large;
+  font-family: 'Roboto';
+  font-size: 2rem;
   text-decoration: none
+
 }
 
 h2 {
