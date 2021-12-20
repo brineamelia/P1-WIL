@@ -12,7 +12,8 @@ h1 {
 .wil {
   font-family: 'Roboto';
   font-size: 2rem;
-  text-decoration: none
+  text-decoration: none;
+color: #fff;
 }
 
 .wil-link {background-color: grey;
@@ -158,5 +159,8 @@ p {
 .mc-conclusion {font-size: 1rem;
   font-style: italic;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.percent {
 
 }
