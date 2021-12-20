@@ -1,6 +1,14 @@
+html {
+  height: 100%;
+}
+
 body {
   background-color: whitesmoke;
   font-family: "Roboto", sans-serif;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 h1 {
@@ -10,13 +18,14 @@ h1 {
 }
 
 .wil {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-size: 2rem;
   text-decoration: none;
-color: #fff;
+  color: #fff;
 }
 
-.wil-link {background-color: grey;
+.wil-link {
+  background-color: grey;
   box-shadow: 0 5px grey;
 }
 
@@ -71,7 +80,8 @@ p {
 .michelle {
   font-size: 1rem;
   font-style: italic;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 /*Image positioning leaders.html*/
@@ -156,11 +166,26 @@ p {
   font-size: 0.5rem;
 }
 
-.mc-conclusion {font-size: 1rem;
+.mc-conclusion {
+  font-size: 1rem;
   font-style: italic;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-.percent {
 
+.title {
+  text-align: center;
+}
+
+.why {
+  text-align: center;
+  text-decoration: none;
+}
+
+.michelle {
+  text-align: center;
+  font-size: 1rem;
+  font-style: italic;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
