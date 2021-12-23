@@ -155,9 +155,9 @@ p {
 
 .content-image {
   display:block;
-  max-width:100%;
-  height:auto;
-  image:center
+  max-width:50%;
+  height:50%;
+  float:left;
 }
 
 .safra-catz {
