@@ -106,6 +106,7 @@ p {
   font-style: italic;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 /*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate3*/
@@ -150,6 +151,13 @@ p {
 
 #safra-catz img[src="assets/images/safracatz.png"] {
   border-radius: 50%;
+}
+
+.content-image {
+  display:block;
+  max-width:100%;
+  height:auto;
+  image:center
 }
 
 .safra-catz {
