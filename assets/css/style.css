@@ -75,6 +75,8 @@ p {
 
 .why {
   font-size: 0.75rem;
+  margin-block-end: 0;
+  margin-block-start: 0;
 }
 
 .michelle {
@@ -96,12 +98,24 @@ p {
   border-radius: 50%;
 }
 
+.safra-catz {
+  text-align: center;
+}
+
 #maggie-timoney img[src="assets/images/maggietimoney.png"] {
   border-radius: 50%;
 }
 
+.maggie-timoney {
+  text-align: center;
+}
+
 #whitney-wolfe-herd img[src="assets/images/whitneywolfeherd .png"] {
   border-radius: 50%;
+}
+
+.whitney-wolfe-herd {
+  text-align:center;
 }
 
 /*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate3*/
@@ -180,6 +194,7 @@ p {
 .why {
   text-align: center;
   text-decoration: none;
+  font-size: 2rem;
 }
 
 .michelle {
@@ -189,3 +204,4 @@ p {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
+
