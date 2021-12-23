@@ -1,3 +1,4 @@
+/* Styling across all three pages*/
 html {
   height: 100%;
 }
@@ -17,6 +18,14 @@ h1 {
   color: #252525;
 }
 
+h2 {
+  font-size: 1rem;
+}
+
+p {
+  font-size: 16px;
+}
+/* Women in Leadership logo*/
 .wil {
   font-family: "Roboto";
   font-size: 2rem;
@@ -29,30 +38,7 @@ h1 {
   box-shadow: 0 5px grey;
 }
 
-h2 {
-  font-size: 1rem;
-}
-
-p {
-  font-size: 16px;
-}
-
-.logo {
-  float: left;
-  font-size: 1.5rem;
-  margin-left: 2px;
-  font-weight: 900;
-}
-
-.img-container {
-  background-image: url("../images/hero-img.jpg");
-  height: 25vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
+/* Top nav bar*/
 .topnav {
   overflow: hidden;
   display: flex;
@@ -73,49 +59,53 @@ p {
   text-decoration: underline;
 }
 
-.why {
+/* styling for bottom nav bar*/
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_bottom_nav*/
+
+.bottomnav {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.bottomnav a {
+  float: left;
+  display: block;
+  color: #57585c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #252525;
+}
+
+.bottonnav a:hover {
+  text-decoration: underline;
+}
+.bottomnav a:hover {
+  text-decoration: underline;
+}
+
+
+/* index html*/
+.welcome {
   font-size: 0.75rem;
   margin-block-end: 0;
   margin-block-start: 0;
+  text-align:center;
 }
 
+.title {
+  text-align: center;
+}
+
+/* quote from michelle obama*/
 .michelle {
   font-size: 1rem;
   font-style: italic;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-}
-
-/*Image positioning leaders.html*/
-
-.title {
-  text-decoration: underline;
-}
-
-/*https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image html link added to the images of leaders*/
-
-#safra-catz img[src="assets/images/safracatz.png"] {
-  border-radius: 50%;
-}
-
-.safra-catz {
-  text-align: center;
-}
-
-#maggie-timoney img[src="assets/images/maggietimoney.png"] {
-  border-radius: 50%;
-}
-
-.maggie-timoney {
-  text-align: center;
-}
-
-#whitney-wolfe-herd img[src="assets/images/whitneywolfeherd .png"] {
-  border-radius: 50%;
-}
-
-.whitney-wolfe-herd {
-  text-align:center;
 }
 
 /*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate3*/
@@ -146,55 +136,49 @@ p {
   display: flex;
   justify-content: center;
 }
-/* styling for bottom nav bar*/
-/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_bottom_nav*/
 
-/* Add a black background color to the top navigation */
-.bottomnav {
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
+/*image positioning leaders.html*/
+.title {
+  text-decoration: underline;
 }
 
-/* Style the links inside the navigation bar */
-.bottomnav a {
-  float: left;
-  display: block;
-  color: #57585c;
+/*Leaders*/
+
+/* media leader: pictures of 3x leaders*/
+
+/*https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image html link added to the images of leaders*/
+
+#safra-catz img[src="assets/images/safracatz.png"] {
+  border-radius: 50%;
+}
+
+.safra-catz {
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 12px;
-  text-transform: uppercase;
-  color: #252525;
 }
 
-.bottonnav a:hover {
-  text-decoration: underline;
-}
-.bottomnav a:hover {
-  text-decoration: underline;
+#maggie-timoney img[src="assets/images/maggietimoney.png"] {
+  border-radius: 50%;
 }
 
-.p1 {
-  font-size: 0.5rem;
+.maggie-timoney {
+  text-align: center;
 }
+
+#whitney-wolfe-herd img[src="assets/images/whitneywolfeherd .png"] {
+  border-radius: 50%;
+}
+
+.whitney-wolfe-herd {
+  text-align:center;
+}
+
+/* Industry */
 
 .mc-conclusion {
   font-size: 1rem;
   font-style: italic;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-}
-
-.title {
-  text-align: center;
-}
-
-.why {
-  text-align: center;
-  text-decoration: none;
-  font-size: 2rem;
 }
 
 .michelle {
@@ -215,4 +199,22 @@ p {
 
 .company-3 {
   text-align: center
+}
+
+/* Spare */
+
+.logo {
+  float: left;
+  font-size: 1.5rem;
+  margin-left: 2px;
+  font-weight: 900;
+}
+
+.img-container {
+  background-image: url("../images/hero-img.jpg");
+  height: 25vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
