@@ -152,7 +152,6 @@ p {
 #safra-catz img[src="assets/images/safracatz.png"] {
   border-radius: 50%;
 }
-
 .content-image {
   display:block;
   max-width:50%;
@@ -178,6 +177,34 @@ p {
 
 .whitney-wolfe-herd {
   text-align:center;
+}
+
+.link-button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 6px #57585c;
+  font: "Roboto";
+}
+
+.link-button:hover {
+  background-color: pink;
+}
+
+.link-button:active {
+  background-color: grey;
+  box-shadow: 0 5px grey;
+  transform: translateY(4px);
+}
+.link-button-wrapper {
+  display: flex;
+  justify-content: center;
 }
 
 /* Industry */
