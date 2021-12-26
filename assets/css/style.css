@@ -179,19 +179,28 @@ p {
   text-align:center;
 }
 
-.button1 {
-  padding: 15px 25px;
-  font-size: 24px;
-  text-align: center;
-  cursor: pointer;
-  outline: none;
-  color: #fff;
-  background-color: grey;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 6px #57585c;
-  font: "Roboto";
+.button1 
+{ padding-bottom: 1.3rem;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 5%;
+    width:200px;
+    padding: 10px 10px;
+font-size: 24px;
+text-align: center;
+cursor: pointer;
+outline: none;
+color: #fff;
+background-color: grey;
+border: none;
+border-radius: 15px;
+box-shadow: 0 6px #57585c;
+font: "Roboto";
 }
+
 
 .button1:hover {
   background-color: paleturquoise;
@@ -207,32 +216,10 @@ p {
   justify-content: center;
 }
 
-.button2 {
-  padding: 15px 25px;
-  font-size: 24px;
-  text-align: center;
-  cursor: pointer;
-  outline: none;
-  color: #fff;
-  background-color: grey;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 6px #57585c;
-  font: "Roboto";
-}
-
-.button2:hover {
-  background-color: green;
-}
-
-.button2:active {
-  background-color: grey;
-  box-shadow: 0 5px grey;
-  transform: translateY(4px);
-}
-.button2-wrapper {
+.button1-wrapper {
   display: flex;
   justify-content: center;
+}
 
 /* Industry */
 
