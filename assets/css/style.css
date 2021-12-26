@@ -163,12 +163,24 @@ p {
   text-align: center;
 }
 
-#maggie-timoney img[src="assets/images/maggietimoney.png"] {
-  border-radius: 50%;
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
 }
 
-.maggie-timoney {
-  text-align: center;
+img {
+  max-width: 100%
+}
+
+.image {
+  flex-basis: 40%
+}
+
+.text {
+  font-size: 10px;
+  padding-left: 20px;
 }
 
 #whitney-wolfe-herd img[src="assets/images/whitneywolfeherd .png"] {
