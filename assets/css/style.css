@@ -179,7 +179,7 @@ p {
   text-align:center;
 }
 
-.internal-link-button {
+.button1 {
   padding: 15px 25px;
   font-size: 24px;
   text-align: center;
@@ -193,21 +193,21 @@ p {
   font: "Roboto";
 }
 
-.internal-link-button:hover {
-  background-color: pink;
+.button1:hover {
+  background-color: paleturquoise;
 }
 
-.internal-link-button:active {
+.button1:active {
   background-color: grey;
   box-shadow: 0 5px grey;
   transform: translateY(4px);
 }
-.interanl-link-button-wrapper {
+.button1-wrapper {
   display: flex;
   justify-content: center;
 }
 
-.external-link-button {
+.button2 {
   padding: 15px 25px;
   font-size: 24px;
   text-align: center;
@@ -221,16 +221,16 @@ p {
   font: "Roboto";
 }
 
-.external-link-button:hover {
-  background-color: pink;
+.button2:hover {
+  background-color: green;
 }
 
-.external-link-button:active {
+.button2:active {
   background-color: grey;
   box-shadow: 0 5px grey;
   transform: translateY(4px);
 }
-.exteranl-link-button-wrapper {
+.button2-wrapper {
   display: flex;
   justify-content: center;
 
