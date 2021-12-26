@@ -89,6 +89,29 @@ p {
 
 
 /* index html*/
+
+/*https://www.w3schools.com/howto/howto_css_hero_image.asp*/
+/* The hero image */
+.hero-image {
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero-img.jpg");
+
+  height: 50%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
 .welcome {
   font-size: 0.75rem;
   margin-block-end: 0;
@@ -150,6 +173,10 @@ p {
 /*https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image html link added to the images of leaders*/
 
 /*https://www.w3docs.com/snippets/css/how-to-vertically-align-text-next-to-an-image.html*/
+
+.FLsub-heading {
+  text-decoration: underline;
+}
 
 .content-image {
   display:block;
@@ -231,15 +258,15 @@ font: "Roboto";
 }
 
 .company-1 {
-  text-align:center
+  text-align:left
 }
 
 .company-2 {
-  text-align:center
+  text-align:left
 }
 
 .company-3 {
-  text-align: center
+  text-align: left
 }
 
 /* Spare */
