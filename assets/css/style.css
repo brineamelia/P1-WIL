@@ -179,7 +179,7 @@ p {
   text-align:center;
 }
 
-.link-button {
+.internal-link-button {
   padding: 15px 25px;
   font-size: 24px;
   text-align: center;
@@ -193,19 +193,46 @@ p {
   font: "Roboto";
 }
 
-.link-button:hover {
+.internal-link-button:hover {
   background-color: pink;
 }
 
-.link-button:active {
+.internal-link-button:active {
   background-color: grey;
   box-shadow: 0 5px grey;
   transform: translateY(4px);
 }
-.link-button-wrapper {
+.interanl-link-button-wrapper {
   display: flex;
   justify-content: center;
 }
+
+.external-link-button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 6px #57585c;
+  font: "Roboto";
+}
+
+.external-link-button:hover {
+  background-color: pink;
+}
+
+.external-link-button:active {
+  background-color: grey;
+  box-shadow: 0 5px grey;
+  transform: translateY(4px);
+}
+.exteranl-link-button-wrapper {
+  display: flex;
+  justify-content: center;
 
 /* Industry */
 
