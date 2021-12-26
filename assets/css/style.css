@@ -149,20 +149,14 @@ p {
 
 /*https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image html link added to the images of leaders*/
 
-#safra-catz img[src="assets/images/safracatz.png"] {
-  border-radius: 50%;
-}
+/*https://www.w3docs.com/snippets/css/how-to-vertically-align-text-next-to-an-image.html*/
+
 .content-image {
   display:block;
   max-width:50%;
   height:50%;
   float:left;
 }
-
-.safra-catz {
-  text-align: center;
-}
-
 
 .container {
   display: flex;
@@ -175,7 +169,7 @@ img {
 }
 
 .image {
-  flex-basis: 40%
+  flex-basis: 50%
 }
 
 .text {
@@ -183,17 +177,9 @@ img {
   padding-left: 20px;
 }
 
-#whitney-wolfe-herd img[src="assets/images/whitneywolfeherd .png"] {
-  border-radius: 50%;
-}
-
-.whitney-wolfe-herd {
-  text-align:center;
-}
-
 .button1 
 { padding-bottom: 1.3rem;
-    display: inline-flex;
+    display: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -226,6 +212,7 @@ font: "Roboto";
 .button1-wrapper {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .button1-wrapper {
