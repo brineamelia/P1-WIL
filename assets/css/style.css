@@ -306,6 +306,18 @@ text-decoration: none;
 
 /* Industry */
 
+.hero-image-2 {
+
+  background-image: url("../images/diversity-group.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .mc-conclusion {
   font-size: 1rem;
   font-style: italic;
