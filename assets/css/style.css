@@ -165,6 +165,7 @@ a {
 
 .FLsub-heading {
   text-decoration: underline;
+  text-align: center;
 }
 
 .content-image {
@@ -190,13 +191,13 @@ a {
 }
 
 .image-container {
-  width: 25%;
+  width: 10%;
 }
 
 .image-style {
   width:100%;
   height: auto;
-  border-radius: 5px;
+  border-radius: 10px;
   border-color: black;
 }
 
@@ -206,11 +207,11 @@ a {
 }
 
 .quote {
-  text-align: left;
+  text-align: center;
 }
 
 .quote2 {
-  text-align: center;
+  text-align: left;
 }
 
 .button1 
@@ -257,19 +258,19 @@ text-decoration: none;
     display: center;
     flex-direction: column;
     justify-content: center;
-    align-items: left;
+    align-items: center;
     margin: auto;
     height: 5%;
-    width:100px;
-    padding: 10px 10px;
-font-size: 10px;
+    width:180px;
+    padding-bottom: 10px, 10px;
+font-size: 15px;
 text-align: center;
 cursor: pointer;
 outline: none;
 color:grey;
 background-color: whitesmoke;
 border: none;
-border-radius: 70px;
+border-radius: 50px;
 box-shadow: 0 6px whitesmoke;
 font: "Roboto";
 text-decoration: none;
@@ -292,8 +293,15 @@ text-decoration: none;
 }
 
 .external-link1 {
-  color: red;
+  color:grey;
   text-align: center;
+  margin:auto;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-decoration: underline;
+  font-size:30px;
+  font-weight: bold;
+  letter-spacing:2px
 }
 
 /* Industry */
