@@ -59,6 +59,11 @@ p {
   text-decoration: underline;
 }
 
+.active {
+  text-decoration: underline;
+  color: #252525;
+}
+
 /* styling for bottom nav bar*/
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_bottom_nav*/
 
@@ -133,33 +138,7 @@ p {
 }
 
 /*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate3*/
-.button {
-  padding: 15px 25px;
-  font-size: 24px;
-  text-align: center;
-  cursor: pointer;
-  outline: none;
-  color: #fff;
-  background-color: grey;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 6px #57585c;
-  font: "Roboto";
-}
 
-.button:hover {
-  background-color: pink;
-}
-
-.button:active {
-  background-color: grey;
-  box-shadow: 0 5px grey;
-  transform: translateY(4px);
-}
-.button-wrapper {
-  display: flex;
-  justify-content: center;
-}
 
 /*image positioning leaders.html*/
 .title {
@@ -205,14 +184,14 @@ img {
 }
 
 .button1 
-{ padding-bottom: 1.3rem;
+{ padding-bottom: 0.5rem;
     display: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: auto;
     height: 5%;
-    width:200px;
+    width:100px;
     padding: 10px 10px;
 font-size: 24px;
 text-align: center;
@@ -221,7 +200,7 @@ outline: none;
 color: #fff;
 background-color: grey;
 border: none;
-border-radius: 15px;
+border-radius: 70px;
 box-shadow: 0 6px #57585c;
 font: "Roboto";
 }
