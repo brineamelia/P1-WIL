@@ -169,9 +169,9 @@ a {
 
 .content-image {
   display:block;
-  max-width:100%;
+  max: width 100%;
   height: auto;
-  float:left;
+  float:center;
 }
 
 .container {
@@ -187,30 +187,19 @@ a {
 
 .image {
   flex-basis: 50%;
-
 }
 
 .image-container {
   width: 25%;
-  float: left;
-}
-
-.image-container2 {
-  float:right
-  width: 100%
 }
 
 .image-style {
-  width:50%;
+  width:100%;
   height: auto;
-  border-radius: 15px;
+  border-radius: 5px;
+  border-color: black;
 }
 
-.image-style2 {
-  width:50%;
-  height: auto;
-  border-radius: 15px;
-}
 .text {
   font-size: 10px;
   padding-left: 20px;
@@ -261,6 +250,50 @@ text-decoration: none;
   justify-content: center;
   align-items: center;
   color:grey;
+}
+
+.button2
+{ padding-bottom: 0.5rem;
+    display: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    margin: auto;
+    height: 5%;
+    width:100px;
+    padding: 10px 10px;
+font-size: 10px;
+text-align: center;
+cursor: pointer;
+outline: none;
+color:grey;
+background-color: whitesmoke;
+border: none;
+border-radius: 70px;
+box-shadow: 0 6px whitesmoke;
+font: "Roboto";
+text-decoration: none;
+}
+
+.button2:hover {
+  background-color: black;
+}
+
+.button2:active {
+  background-color: grey;
+  box-shadow: 0 5px grey;
+  transform: translateY(4px);
+}
+.button2-wrapper {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  color:grey;
+}
+
+.external-link1 {
+  color: red;
+  text-align: center;
 }
 
 /* Industry */
