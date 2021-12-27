@@ -195,15 +195,33 @@ a {
   float: left;
 }
 
+.image-container2 {
+  float:right
+  width: 100%
+}
+
 .image-style {
   width:50%;
   height: auto;
   border-radius: 15px;
 }
 
+.image-style2 {
+  width:50%;
+  height: auto;
+  border-radius: 15px;
+}
 .text {
   font-size: 10px;
   padding-left: 20px;
+}
+
+.quote {
+  text-align: left;
+}
+
+.quote2 {
+  text-align: center;
 }
 
 .button1 
