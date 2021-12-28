@@ -110,6 +110,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  padding-top: 100px;
 }
 
 .heading {
@@ -162,10 +163,25 @@ a {
 /*https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image html link added to the images of leaders*/
 /*https://www.w3docs.com/snippets/css/how-to-vertically-align-text-next-to-an-image.html*/
 /*https://www.w3schools.com/css/css3_images.asp*/
+/*https://www.w3schools.com/cssref/pr_font_weight.asp*/
+
+.heading2 {
+  color: whitesmoke;
+  font-size:large;
+  text-decoration: underline;
+  page-break-after: auto;
+  font-weight: bold;
+  color: #57585c;
+  letter-spacing: 2px;
+  text-align: center;
+  font-weight: bolder;
+}
 
 .FLsub-heading {
   text-decoration: underline;
   text-align: center;
+  letter-spacing: 2px;
+  font-weight: bolder;
 }
 
 .content-image {
@@ -206,12 +222,11 @@ a {
   padding-left: 20px;
 }
 
+/*https://www.w3schools.com/cssref/pr_font_font-style.asp*/
+
 .quote {
   text-align: center;
-}
-
-.quote2 {
-  text-align: left;
+  font-style: italic;
 }
 
 .button1 
@@ -310,13 +325,22 @@ text-decoration: none;
 
   background-image: url("../images/diversity-group.jpg");
 
-  height: 100%;
+  height: 50%;
 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
+
+.image-style2 {
+  width:100%;
+  height: auto;
+  border-radius: 10px;
+  border-color: black;
+  padding-top: 70px;
+}
+
 
 .mc-conclusion {
   font-size: 1rem;
