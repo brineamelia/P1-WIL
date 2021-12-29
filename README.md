@@ -114,6 +114,17 @@ As a user I wanted to learn something new, this was achieved by keeping text min
 
 As a user I wanted to have access to further information not included on the website. This was achieved by including external links to websites relating to the topic of the site. 
 
+Devices: I tested the responsiveness and functionality of the website against the following devices: 
+Moto G4
+iPhone 5
+iPad PRO
+Surface Duo 
+Nest Hub Max
+Google Chrome
+
+
+
+
 
 
 
