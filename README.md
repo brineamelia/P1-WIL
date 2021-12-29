@@ -60,7 +60,7 @@ Top navigation bar:
 ![top navigation bar](https://github.com/brineamelia/P1-WIL/blob/main/docs/top-nav-bar.png)
 
 Footer: 
-![footer](https://github.com/brineamelia/P1-WIL/blob/main/docs/bottom-nav-bar.png)
+![footer] 
 
 Layout and Content: 
 
