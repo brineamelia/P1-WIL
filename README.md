@@ -184,7 +184,24 @@ DEPLOYMENT
 CREDIT REFERENCES:
 ---
 Images:
+I used the following website to source my images:
+
+Homepage:
+- ![link to imageon industry page](https://unsplash.com/)
+
+Leaders:
+- ![link to images on leaders page](https://www.theceomagazine.com/business/management-leadership/female-ceos/)
+
+
+Industry: 
+- ![link to imageon industry page](https://unsplash.com/)
+
+README: 
+![responsiveness weblink](http://ami.responsivedesign.is/#)
+
 HTML: 
+
+
 
 
 
