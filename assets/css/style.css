@@ -68,8 +68,7 @@ a {
   color: #252525;
 }
 
-/* styling for bottom nav bar*/
-/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_bottom_nav*/
+/* styling for bottom footer*/
 
 .bottomnav {
   overflow: hidden;
@@ -96,11 +95,9 @@ a {
   text-decoration: underline;
 }
 
-
 /* index html*/
 
-/*https://www.w3schools.com/howto/howto_css_hero_image.asp*/
-/* The hero image */
+/* hero image */
 .hero-image {
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/heroimage.jpeg");
@@ -112,8 +109,6 @@ a {
   background-size: cover;
   position: relative;
   height: calc(100vh - 250px);
-
-  
 }
 
 .heading {
@@ -153,9 +148,6 @@ a {
     text-align: center;
 }
 
-/*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_buttons_animate3*/
-
-
 /*image positioning leaders.html*/
 .title {
   text-decoration: underline;
@@ -163,12 +155,7 @@ a {
 
 /*Leaders*/
 
-/* media leader: pictures of 3x leaders*/
-
-/*https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image html link added to the images of leaders*/
-/*https://www.w3docs.com/snippets/css/how-to-vertically-align-text-next-to-an-image.html*/
-/*https://www.w3schools.com/css/css3_images.asp*/
-/*https://www.w3schools.com/cssref/pr_font_weight.asp*/
+/* pictures of 3x leaders and supporting text*/
 
 .heading2 {
   font-size:large;
@@ -227,8 +214,6 @@ a {
   padding-left: 20px;
 }
 
-/*https://www.w3schools.com/cssref/pr_font_font-style.asp*/
-
 .quote {
   text-align: center;
   font-style: italic;
@@ -236,8 +221,7 @@ a {
   padding-right: 40px;
 }
 
-/*https://fonts.google.com/?query=ro*/ 
-
+/*button and button-wrapper*/
 .button2
 {flex-direction: column;
     justify-content: center;
@@ -279,7 +263,6 @@ border:solid 2px whitesmoke;
 }
 
 .button2:hover .button2-wrapper {
-
   color: grey;
 }
 
@@ -295,8 +278,7 @@ border:solid 2px whitesmoke;
   letter-spacing:2px
 }
 
-/* Industry */
-
+/*industry.html*/
 
 .image-style2 {
   width:100%;
@@ -304,6 +286,8 @@ border:solid 2px whitesmoke;
   border-radius: 10px;
   border-color: black;
 }
+
+/*Mckinsey and Company report*/
 
 .mc-conclusion {
   font-size: 1rem;
@@ -322,18 +306,19 @@ border:solid 2px whitesmoke;
     text-align: center;
 }
 
-    .mc-conclusion3 {
-      font-size: 2rem;
-      font-style: italic;
-      font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-        text-align: center;
+.mc-conclusion3 {
+font-size: 2rem;
+font-style: italic;
+font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+text-align: center;
     }
 
 .underline {text-decoration: underline;
 }
 
-/*https://www.w3schools.com/css/css_padding.asp*/
+/*companies on industry page*/
+
 .company-1 {
   text-align:left  
 }
@@ -345,7 +330,6 @@ border:solid 2px whitesmoke;
 .company-3 {
   text-align: left
 }
-
 
 .hero-text2 {
   text-align: center;
@@ -359,7 +343,6 @@ border:solid 2px whitesmoke;
   text-shadow: 2px 2px 1px black;
   font-weight:700;
 }
-
 
 /* make image smaller */
 @media only screen and (min-width: 500px) {
@@ -386,8 +369,6 @@ border:solid 2px whitesmoke;
     font-weight:700;
   }
 }
-
-
 
 /* repositon text @ 768px */
 @media only screen and (min-width: 768px) {
