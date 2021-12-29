@@ -134,13 +134,16 @@ Each page was put through wave.webaim.org for accessibility testing.
 
 Solved bugs and errors:  
 
-wanted content to expand and fit the screen
-Used flex box to achieve this - this required height to be set on the body and html elements 
-On the industry page realised this was compressing sections of html, this was due to height being set but not min height. 
+I wanted the content to expand and fit the screen, I did this using flex box. It required me to set the height to the body and html elements 
+On the industry page I realised this was compressing sections of html, this was due to the height being set but not giving a minimum height. 
+
+However when minimum hight was set this caused the hero image on the index page to then not have a height. Due to a limited time frame available at this stage I was unable to reach a more dynamic resolution to this therefore used explicit height using calc (css tool). If more time was available I would try and work out a more generic fix that would apply to all three pages without having to explicitly state a hight for this specific element.  
 
 ![image of bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/bug1.png)
 
-However when min hight was set this was causing hero image on index page to not have a height, due to limited time frame available at this stage I was unable to reach a more dynamic resolution to this therefore used explicit height using using calc (css tool) if more time was available I would try and work out a more generic fix that would apply to all three pages without having to explicitly state a hight for this specific element.  
+![image of fixed bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/fixed-bug1.png)
+
+
 
 
 
