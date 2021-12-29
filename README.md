@@ -79,7 +79,11 @@ Navbar effects and sfooter ocail media links
 
 To ensure the user was easily able to navigate through the website the navbar has the page underlined indicating which page the user is viewing. 
 
+![navbar navitation to home, leaders and industry](https://github.com/brineamelia/P1-WIL/blob/main/docs/top-nav-bar.png)
+
 When using the footer, each link underlines as the user places their cursor over the link. 
+![Example 1: footer with social media links](https://github.com/brineamelia/P1-WIL/blob/main/docs/easy-navigation.png)
+![Example 2: footer with social media links](https://github.com/brineamelia/P1-WIL/blob/main/docs/easy-navigation2.png)
 
 
 
