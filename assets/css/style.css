@@ -231,6 +231,8 @@ a {
 .quote {
   text-align: center;
   font-style: italic;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 /*https://fonts.google.com/?query=ro*/ 
@@ -342,15 +344,13 @@ border:solid 2px whitesmoke;
 .underline {text-decoration: underline;
 }
 
+/*https://www.w3schools.com/css/css_padding.asp*/
 .company-1 {
-  text-align:left
-  
+  text-align:left  
 }
 
 .company-2 {
   text-align:left
-  padding-left: 20%;
-  padding-right: 20%;
 }
 
 .company-3 {
