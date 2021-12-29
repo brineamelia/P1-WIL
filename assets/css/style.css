@@ -111,7 +111,6 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  padding-top: 100px;
 }
 
 .heading {
@@ -345,7 +344,6 @@ text-decoration: none;
   height: auto;
   border-radius: 10px;
   border-color: black;
-  padding-top: 70px;
 }
 
 
@@ -355,7 +353,7 @@ text-decoration: none;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     text-align: center;
-    line-height: 0.2;  
+     
 }
 
 .mc-conclusion2 {
@@ -364,8 +362,6 @@ text-decoration: none;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     text-align: center;
-    line-height: 0.2;
-    padding-top: 5%;
 }
 
     .mc-conclusion3 {
@@ -374,7 +370,6 @@ text-decoration: none;
       font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
         "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
         text-align: center;
-        line-height: 0.2;
     }
 
 .underline {text-decoration: underline;
