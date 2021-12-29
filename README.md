@@ -87,7 +87,15 @@ When using the footer, each link underlines as the user places their cursor over
 
 Design: 
 Colour scheme: 
-As this is an educational and factual website the colour scheme was kept neutral with shades of grey and white, see hex colours below. The images have bight bold colours and the call to actions had changing colours when hovered over in order to keep the website engaging and eye-catching. 
+As this is an educational and factual website the colour scheme was kept neutral with shades of grey and white, see hex colours below. The images have bight bold colours and the call to actions has changing colours when hovered over, in order to keep the website engaging and eye-catching. 
+
+![hex colour - whitesmoke](https://github.com/brineamelia/P1-WIL/blob/main/docs/whitesmoke.png)
+![hex colour - grey](https://github.com/brineamelia/P1-WIL/blob/main/docs/grey.png)
+![hex colour - purple](https://github.com/brineamelia/P1-WIL/blob/main/docs/purple.png)
+
+I added the colour purple to highlight external links to the user and make sure they stood out from the background. 
+
+
 
 
 
