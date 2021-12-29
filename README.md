@@ -122,6 +122,27 @@ Surface Duo
 Nest Hub Max
 Google Chrome
 
+Validation:  
+HTML was put through css-validator and html-validator. Multiple errors were displayed and corrected to ensure none were found once the code was run through the css and html validators again. 
+
+Lighthouse
+*add screenshot* 
+
+Accessibility: 
+Each page was put through wave.webaim.org for accessibility testing. 
+*add screenshot*
+
+Solved bugs and errors:  
+
+wanted content to expand and fit the screen
+Used flex box to achieve this - this required height to be set on the body and html elements 
+On the industry page realised this was compressing sections of html, this was due to height being set but not min height. 
+
+(Insert screenshot)
+
+However when min hight was set this was causing hero image on index page to not have a height, due to limited time frame available at this stage I was unable to reach a more dynamic resolution to this therefore used explicit height using using calc (css tool) if more time was available I would try and work out a more generic fix that would apply to all three pages without having to explicitly state a hight for this specific element.  
+
+
 
 
 
