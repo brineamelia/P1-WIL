@@ -143,6 +143,17 @@ However when minimum hight was set this caused the hero image on the index page 
 
 ![image of fixed bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/fixed-bug1.png)
 
+Functionality: 
+All links have been clicked and hovered over to ensure accessibility 
+All pages loaded correctly on all size device screens 
+All social media links worked correctly 
+All images loaded on each pages as expected 
+
+Technologies used: 
+CSS
+HTML
+
+
 
 
 
