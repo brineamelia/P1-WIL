@@ -75,6 +75,11 @@ The Leaders page will have images and text of three different leaders, an extern
 
 The Industry page will have a hero image and text outlining the current works of three companies improving their diversity, along with an external link to the McKinsey and Co full diversity report.
 
+Navbar effects and sfooter ocail media links 
+
+To ensure the user was easily able to navigate through the website the navbar has the page underlined indicating which page the user is viewing. 
+
+When using the footer, each link underlines as the user places their cursor over the link. 
 
 
 
