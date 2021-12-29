@@ -188,7 +188,7 @@ I used the following website to source my images and information:
 
     Homepage: Link to image on homepage 
 
-    - ![link to image on industry page](https://unsplash.com/)
+    [link to image on industry page](https://unsplash.com/)
 
     Leaders: Link to images on leaders page
 
@@ -208,13 +208,15 @@ I used the following website to source my images and information:
 
     ![link to Mckinsey and Company](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
-    ![The Times Top 50 Employers for Women 2021](https://www.thetimes.co.uk/static/tt50/)
+    [The Times Top 50 Employers for Women 2021](https://www.thetimes.co.uk/static/tt50/)
+
+    [link to external socure CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
 
     Industry: Link to image on Industry page
 
-    - ![link to image on industry page](https://unsplash.com/)
+    - [link to image on industry page](https://unsplash.com/)
 
-    ![Link to Mckinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
+    [Link to Mckinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
     README: link to imagine in README
 
