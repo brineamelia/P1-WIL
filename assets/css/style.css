@@ -171,12 +171,11 @@ a {
 /*https://www.w3schools.com/cssref/pr_font_weight.asp*/
 
 .heading2 {
-  color: whitesmoke;
   font-size:large;
   text-decoration: underline;
   page-break-after: auto;
   font-weight: bold;
-  color: #57585c;
+  color: grey;
   letter-spacing: 2px;
   text-align: center;
   font-weight: bolder;
@@ -359,14 +358,6 @@ border:solid 2px whitesmoke;
   font-size: 1.5rem;
   text-shadow: 2px 2px 1px black;
   font-weight:700;
-}
-
-.heading2 {
-  color: whitesmoke;
-  font-size: x-large;
-  text-decoration: underline;
-  page-break-after: auto;
-  font-weight: bold;
 }
 
 
