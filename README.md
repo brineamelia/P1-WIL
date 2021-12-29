@@ -150,9 +150,17 @@ All social media links worked correctly
 All images loaded on each pages as expected 
 
 Technologies used: 
-CSS
-HTML
+[CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)
+[HTML](https://en.wikipedia.org/wiki/HTML5)
 
+Programmes used: 
+GIT - version control, committing and pushing to GitHub
+GITPOD - the IDE used to code this website 
+GITHUB - used to store repositories, file and images pushed from gitpod 
+Am I Responsive - used to test responsiveness of the website in different screen sizes - I want to used this - go to website - get picture)
+CHROME Developer tool - for checking compatibility, toubleshooting and editing code 
+
+Deployment:
 
 
 
