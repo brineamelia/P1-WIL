@@ -1,14 +1,7 @@
-# P1-WIL
-Women in leadership project 
+# **Women in Leadership**
 
-git add . 
-git add  (specific file) index.html 
-git commit -m "50 character message"
-git push 
+[View live project here](https://brineamelia.github.io/P1-WIL/)
 
-Cancelling server ctl C
-restart - full command - python3 -m http.server
+This project highlights many of the findings of the McKinsey and Company report of 'Diversity Wins: How Inclusion Matters’, written in May 2020. Women in Leadership offers a ‘one stop shop’ location to acquire a basic understanding of why we need to support women into leadership roles and the positive impact this is having on business outcomes. As well as tangible and visual data, Women in Leadership also gives examples of women leaders in 2021 and companies currently supporting women into leadership roles. 
 
-Image overlay with text https://www.youtube.com/watch?v=exb2ab72Xhs
-
-<!--https://www.w3schools.com/tags/tag_hn.asp--!>
+**Picture of website across different size screens** 
