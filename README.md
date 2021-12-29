@@ -95,6 +95,14 @@ As this is an educational and factual website the colour scheme was kept neutral
 
 I added the colour purple to highlight external links to the user and make sure they stood out from the background. 
 
+Images:
+There is a total of 6 images across the site. All these images have remained standard as not to distort the pixels. 
+All images were compressed using tinyjpg. 
+
+Typography:
+The fonts used for the site were sourced from Google Fonts and included; ‘Robot’ and ‘sans-serif’. 
+
+
 
 
 
