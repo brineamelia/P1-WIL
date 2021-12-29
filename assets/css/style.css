@@ -111,6 +111,9 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  height: calc(100vh - 250px);
+
+  
 }
 
 .heading {
@@ -230,48 +233,10 @@ a {
   font-style: italic;
 }
 
-  .button1 
-  { padding-bottom: 0.5rem;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      margin: auto;
-      height: 5%;
-      width:100px;
-      padding: 10px 10px;
-  font-size: 30px;
-  text-align: center;
-  cursor: pointer;
-  outline: none;
-  color:grey;
-  background-color: whitesmoke;
-  border: none;
-  border-radius: 70px;
-  box-shadow: 0 6px whitesmoke;
-  font-family: 'Roboto', sans-serif;
-  text-decoration: none;
-  }
-
-.button1:hover {
-  background-color: black;
-}
-
-.button1:active {
-  background-color: grey;
-  box-shadow: 0 5px grey;
-  transform: translateY(4px);
-}
-.button1-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color:grey;
-}
-
 /*https://fonts.google.com/?query=ro*/ 
 
 .button2
-{ padding-bottom: 0.5rem;
+{
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -289,11 +254,14 @@ border-radius: 50px;
 box-shadow: 0 6px whitesmoke;
 font-family: 'Roboto', sans-serif;
 text-decoration: none;
+display: flex;
+border:solid 2px whitesmoke;
 }
 
 .button2:hover {
   background-color:whitesmoke;
   border:solid 2px grey;
+
 }
 
 .button2:active {
@@ -305,11 +273,11 @@ text-decoration: none;
   display: flex;
   justify-content:center;
   color: whitesmoke;
+  text-align: center;
 }
 
-.button2-wrapper:hover {
-  display: flex;
-  justify-content:center;
+.button2:hover .button2-wrapper {
+
   color: grey;
 }
 
