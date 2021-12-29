@@ -184,22 +184,51 @@ DEPLOYMENT
 CREDIT REFERENCES:
 ---
 Images:
-I used the following website to source my images:
+I used the following website to source my images and information: 
 
-Homepage:
-- ![link to imageon industry page](https://unsplash.com/)
+    Homepage: Link to image on homepage 
 
-Leaders:
-- ![link to images on leaders page](https://www.theceomagazine.com/business/management-leadership/female-ceos/)
+    - ![link to image on industry page](https://unsplash.com/)
 
+    Leaders: Link to images on leaders page
 
-Industry: 
-- ![link to imageon industry page](https://unsplash.com/)
+    - ![link to images on leaders page](https://www.theceomagazine.com/business/management-leadership/female-ceos/)
 
-README: 
-![responsiveness weblink](http://ami.responsivedesign.is/#)
+    ![link to Know Your Value](https://www.nbcnews.com/know-your-value/feature/)
 
-HTML: 
+    ![Link Heineken](women-charge-heineken-ceo-maggie-timoney-ncna1266254)
+        ![Link to America's Live](https://womenamericas.live.ft.com/agenda/speakers/1218139)
+
+        ![Link to Grazia Whitney Wolfe Herd](https://graziadaily.co.uk/life/in-the-news/whitney-wolfe-herd-bmbl-justin-mateen/)
+
+        ![#19 Safra Catz](https://www.forbes.com/profile/safra-catz/?sh=1ab57572f1fa)
+
+    ![Five Questions for Several of FORTUNE's 50 Most Powerful Women
+    ](http://content.time.com/time/specials/packages/article/0,28804,2031904_2031902_2031892,00.html)
+
+    ![link to Mckinsey and Company](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
+
+    ![The Times Top 50 Employers for Women 2021](https://www.thetimes.co.uk/static/tt50/)
+
+    Industry: Link to image on Industry page
+
+    - ![link to image on industry page](https://unsplash.com/)
+
+    ![Link to Mckinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
+
+    README: link to imagine in README
+
+    - ![responsiveness weblink](http://ami.responsivedesign.is/#)
+
+    HTML: 
+    Index page: 
+    ![favicon link](www.favicon.io/favicon-generator)
+
+    ![google fonts link](https://fonts.google.com/specimen/Roboto")
+
+    ![W3 schools link](www.w3schools.com)
+    ![Free Code Camp link](https://www.freecodecamp.org)
+
 
 
 
