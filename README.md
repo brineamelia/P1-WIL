@@ -76,8 +76,6 @@ The Leaders page will have images and text of three different leaders, an extern
 The Industry page will have a hero image and text outlining the current works of three companies improving their diversity, along with an external link to the McKinsey and Co full diversity report.
 
 
-![home page image women in leadership](https://github.com/brineamelia/P1-WIL/blob/main/docs/homepage-hero-image.png)
-
 
 
 
