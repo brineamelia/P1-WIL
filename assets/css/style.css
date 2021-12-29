@@ -103,7 +103,7 @@ a {
 /* The hero image */
 .hero-image {
 
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-img.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/heroimage.jpeg");
 
   height: 100%;
 
@@ -236,8 +236,7 @@ a {
 /*https://fonts.google.com/?query=ro*/ 
 
 .button2
-{
-    flex-direction: column;
+{flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: auto;
@@ -345,10 +344,13 @@ border:solid 2px whitesmoke;
 
 .company-1 {
   text-align:left
+  
 }
 
 .company-2 {
   text-align:left
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .company-3 {
@@ -363,22 +365,4 @@ border:solid 2px whitesmoke;
     border-radius: 10px;
     border-color: black;
   }
-}
-
-/* Spare */
-
-.logo {
-  float: left;
-  font-size: 1.5rem;
-  margin-left: 2px;
-  font-weight: 900;
-}
-
-.img-container {
-  background-image: url("../images/hero-img.jpg");
-  height: 25vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
 }
