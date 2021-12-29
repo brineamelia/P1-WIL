@@ -64,18 +64,21 @@ Footer:
 
 Layout and Content: 
 
-Landing page: This outlines the purpose of the site with a quote from Michelle Obama. It includes a call to action button leading the user to the next page of the website. 
-
-*picture*
-
-Across the website I wanted to include the continuous features of the top and bottom nav bar and call to action buttons. I wanted the information to be easy to access and read, along with supplying external links to acquire further information. 
-
-The site consists of the following: 
-
-Three main pages: Home, Leaders and Industry.
-
 Each page will have a top navigation bar including internal links to the home page, leaders page and industry page. 
 Each page will have a footer including links to social media pages
 Each page will have an interactive element either a link to an external source or call to action
 Each page will have an image to support the text or purpose of the website 
+
+The home page will have a hero-image, explantation of the purpose of the website and a call to action button.
+
+The Leaders page will have images and text of three different leaders, an external link on how to improve diversity within a company and a call to action button. 
+
+The Industry page will have a hero image and text outlining the current works of three companies improving their diversity, along with an external link to the McKinsey and Co full diversity report.
+
+
+![home page image women in leadership](https://github.com/brineamelia/P1-WIL/blob/main/docs/homepage-hero-image.png)
+
+
+
+
 
