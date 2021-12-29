@@ -85,6 +85,9 @@ When using the footer, each link underlines as the user places their cursor over
 ![Example 1: footer with social media links](https://github.com/brineamelia/P1-WIL/blob/main/docs/easy-navigation.png)
 ![Example 2: footer with social media links](https://github.com/brineamelia/P1-WIL/blob/main/docs/easy-navigation2.png)
 
+Design: 
+Colour scheme: 
+As this is an educational and factual website the colour scheme was kept neutral with shades of grey and white, see hex colours below. The images have bight bold colours and the call to actions had changing colours when hovered over in order to keep the website engaging and eye-catching. 
 
 
 
