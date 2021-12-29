@@ -102,6 +102,19 @@ All images were compressed using tinyjpg.
 Typography:
 The fonts used for the site were sourced from Google Fonts and included; ‘Robot’ and ‘sans-serif’. 
 
+Testing:
+The site has undergone multiple test across each page including a full validation for html and CSS. 
+As a user I wanted to understand the purpose of the website - this is supported by the home page with a welcome paragraph under the heading ‘Welcome to women in leadership”. 
+
+As a user I wanted an easy to navigate site. I included the top navigation bar which in tern underlines the page on which the user is veiwing. The navigation bar includes the titles of each of the pages in a clear font. 
+
+As a user I wanted the site to contain images and text information in an attractive and easy to process format. This was achieved by ensure adequate spacing and neutral colouring around brightly coloured images. 
+
+As a user I wanted to learn something new, this was achieved by keeping text minimal and including numeric values in order to provide easy memorable information. 
+
+As a user I wanted to have access to further information not included on the website. This was achieved by including external links to websites relating to the topic of the site. 
+
+
 
 
 
