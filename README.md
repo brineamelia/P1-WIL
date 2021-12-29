@@ -38,5 +38,9 @@ User story:
 - As a user I wanted the site to be ascetically pleasing 
 - As a user I wanted the pages and links to be interactive 
 
-Wireframes:
+Wireframes: Initial plans for my website and mobile design using wireframes. 
+![wireframe of page 1 women in leardership](https://github.com/brineamelia/P1-WIL/blob/main/docs/wireframe1.png)
 
+![wireframe of page 2 women in leadership](https://github.com/brineamelia/P1-WIL/blob/main/docs/wireframe2.png)
+
+![wireframe of page 3 women in leadership](https://github.com/brineamelia/P1-WIL/blob/main/docs/wireframe3.png)
