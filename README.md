@@ -57,18 +57,16 @@ Each page will have a top navigation bar including internal links to the home pa
 - Each page will have an image to support the text or purpose of the website 
 
 Top navigation bar:
+![top navigation bar](https://github.com/brineamelia/P1-WIL/blob/main/docs/top-nav-bar.png)
 
-Bottom navigation bar: 
-
+Footer: 
+![footer](https://github.com/brineamelia/P1-WIL/blob/main/docs/bottom-nav-bar.png)
 
 Layout and Content: 
 
 Landing page: This outlines the purpose of the site with a quote from Michelle Obama. It includes a call to action button leading the user to the next page of the website. 
 
-Features across website and off pages 
-
 *picture*
-
 
 Across the website I wanted to include the continuous features of the top and bottom nav bar and call to action buttons. I wanted the information to be easy to access and read, along with supplying external links to acquire further information. 
 
