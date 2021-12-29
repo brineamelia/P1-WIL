@@ -15,3 +15,18 @@ As a member of my company’s Women’s Network, I wanted a single website for m
 Features: 
 
 Across the website I wanted to include the continuous features of the top and bottom "navbar" and call to action buttons. I wanted the information to be easy to access and read, along with supplying external links to acquire further information. 
+
+UX/UI:
+
+I created this website to demonstrate my knowledge and skills of HTML and CSS. 
+I wanted a website users could visit to easily acquire insightful information both qualitative and quantitative on the site topic. 
+I wanted the website to be easy to navigate and to have links to external information. 
+I wanted this webite to be ascetically pleasing with clear images. 
+
+Site goals: 
+
+To showcase my skills of HTML and CSS.
+To provide the user with easy to access information and external links to read further if desired.
+To provide a site that was easy to navigate and interactive with.
+
+
