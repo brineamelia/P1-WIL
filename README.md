@@ -143,7 +143,7 @@ LIGHTHOUSE
 *add screenshot* 
 
 Accessibility: 
-Each page was put through wave.webaim.org for accessibility testing. 
+Accessibility testing using [Wave](https://wave.webaim.org/)
 *add screenshot*
 --- ---
 SOLVED BUGS AND ERRORS 
@@ -164,6 +164,8 @@ Wave testing : Across all pages
 
 Index page: Wave highlighted the underlining of the hero image text however I kept this as I wanted it to stand out and be the first text the reader saw/read. 
 
+Leaders page: 
+
 
 
 --- ---
@@ -183,15 +185,19 @@ TECHNOLOGIES
 PROGRAMMES USED:
 ---  
 GIT - version control, committing and pushing to GitHub
+
 GITPOD - the IDE used to code this website 
+
 GITHUB - used to store repositories, file and images pushed from gitpod 
+
 Am I Responsive - used to test responsiveness of the website in different screen sizes - I want to used this - go to website - get picture)
+
 CHROME Developer tool - for checking compatibility, toubleshooting and editing code 
 --- ---
-DEPLOYMENT
+## DEPLOYMENT
 --- --
 
-CREDIT REFERENCES:
+## CREDIT REFERENCES:
 ---
 Images:
 I used the following website to source my images and information: 
