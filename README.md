@@ -156,6 +156,16 @@ However when minimum hight was set this caused the hero image on the index page 
 ![image of bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/bug1.png)
 
 ![image of fixed bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/fixed-bug1.png)
+
+
+Wave testing : Across all pages
+
+- Wave flagged a redundent link within the navbar, the link is the "Home" link which is also situated in the top left had corner of each page. I however kept it in situ as I feel it assists with the navigation of the website
+
+Index page: Wave highlighted the underlining of the hero image text however I kept this as I wanted it to stand out and be the first text the reader saw/read. 
+
+
+
 --- ---
 FUNCTIONALITY
 ---
@@ -209,24 +219,24 @@ Leaders: Link to images on leaders page
 
 [The Times Top 50 Employers for Women 2021](https://www.thetimes.co.uk/static/tt50/)
 
-[link to external socure CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
+[Link to external socure CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
 
 Industry: Link to image on Industry page
 
-[link to image on industry page](https://unsplash.com/)
+[Link to image on industry page](https://unsplash.com/)
 
 [Link to Mckinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
 README: link to imagine in README
 
-[responsiveness weblink](http://ami.responsivedesign.is/#)
+[Responsiveness weblink](http://ami.responsivedesign.is/#)
 
 HTML: 
 Index page: 
 
-[favicon link](www.favicon.io/favicon-generator)
+[Favicon link](www.favicon.io/favicon-generator)
 
-[google fonts link](https://fonts.google.com/specimen/Roboto")
+[Google fonts link](https://fonts.google.com/specimen/Roboto")
 
 [W3 schools link](www.w3schools.com)
 [Free Code Camp link](https://www.freecodecamp.org)
