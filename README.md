@@ -97,10 +97,15 @@ DESIGN:
 Colour scheme: 
 As this is an educational and factual website the colour scheme was kept neutral with shades of grey and white, see hex colours below. The images have bight bold colours and the call to actions has changing colours when hovered over, in order to keep the website engaging and eye-catching. 
 
-![hex colour - whitesmoke](https://github.com/brineamelia/P1-WIL/blob/main/docs/whitesmoke.png)
-[hex colour white](https://github.com/brineamelia/P1-WIL/blob/main/docs/white.png)
-![hex colour - grey](https://github.com/brineamelia/P1-WIL/blob/main/docs/grey.png)
-![hex colour - purple](https://github.com/brineamelia/P1-WIL/blob/main/docs/purple.png)
+[hex colour - whitesmoke](https://github.com/brineamelia/P1-WIL/blob/main/docs/whitesmoke.png)
+
+[hex colour - white](https://github.com/brineamelia/P1-WIL/blob/main/docs/white.png)
+
+[hex colour - grey](https://github.com/brineamelia/P1-WIL/blob/main/docs/grey.png)
+
+[hex colour - dark grey](https://github.com/brineamelia/P1-WIL/blob/main/docs/darkgrey.png)
+
+[hex colour - purple](https://github.com/brineamelia/P1-WIL/blob/main/docs/purple.png)
 
 I added the colour purple to highlight external links to the user and make sure they stood out from the background. 
 --- ---
@@ -128,12 +133,25 @@ As a user I wanted to learn something new, this was achieved by keeping text min
 As a user I wanted to have access to further information not included on the website. This was achieved by including external links to websites relating to the topic of the site. 
 
 Devices: I tested the responsiveness and functionality of the website against the following devices: 
-Moto G4
-iPhone 5
-iPad PRO
-Surface Duo 
-Nest Hub Max
-Google Chrome
+
+- Moto G4
+
+- iPhone 5
+
+- iPad PRO
+
+- Surface Duo
+
+- Nest Hub Max
+
+And the following web browsers:
+
+- Firefox
+
+- Google Chrome
+
+- Internet Explorer
+
 --- ---
 VALIDATION  
 ---
@@ -153,7 +171,13 @@ Accessibility testing using [Wave](https://wave.webaim.org/)
 
 [Screenshor of Wave testing - Leaderes page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave3.png)
 
+Wave testing : Across all pages
 
+- Wave flagged a redundent link as an alert acros all three pages. This link sits within the navbar and acts as "Home". There is also a home link situated in the top left had corner of each page. I kept this in situ as I feel it assists with the navigation of the website
+
+Index page: Wave highlighted the underlining of the hero image text as an alert. I kept this as I wanted it to stand out and be the first text the reader saw/read. I kept the underline decoration to make it more eyecatching.  
+
+Leaders page: 
 --- ---
 SOLVED BUGS AND ERRORS 
 --
@@ -165,17 +189,6 @@ However when minimum hight was set this caused the hero image on the index page 
 ![image of bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/bug1.png)
 
 ![image of fixed bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/fixed-bug1.png)
-
-
-Wave testing : Across all pages
-
-- Wave flagged a redundent link within the navbar, the link is the "Home" link which is also situated in the top left had corner of each page. I however kept it in situ as I feel it assists with the navigation of the website
-
-Index page: Wave highlighted the underlining of the hero image text however I kept this as I wanted it to stand out and be the first text the reader saw/read. 
-
-Leaders page: 
-
-
 
 --- ---
 FUNCTIONALITY
