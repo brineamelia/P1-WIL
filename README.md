@@ -120,8 +120,9 @@ TYPOGRAPHY
 --
 The fonts used for the site were sourced from Google Fonts and included; ‘Robot’ and ‘sans-serif’. 
 -- --
-TESTING:
+ ## TESTING:
 --
+USER STORY TESTING:
 The site has undergone multiple test across each page including a full validation for html and CSS. 
 As a user I wanted to understand the purpose of the website - this is supported by the home page with a welcome paragraph under the heading ‘Welcome to women in leadership”. 
 
@@ -132,6 +133,22 @@ As a user I wanted the site to contain images and text information in an attract
 As a user I wanted to learn something new, this was achieved by keeping text minimal and including numeric values in order to provide easy memorable information. 
 
 As a user I wanted to have access to further information not included on the website. This was achieved by including external links to websites relating to the topic of the site. 
+
+
+MANUAL TESTING:
+
+- The code for this website has been put through a css-validator and a html-validator. Multiple errors were displayed and corrected to ensure the code was error free on submitting the project.
+
+- All links have been clicked and hovered over to ensure accessibility 
+
+- All pages loaded correctly on all size devices that were checked
+
+- All social media links worked correctly 
+
+- All images loaded on each pages as expected 
+
+- All external links opened in a new tab and went to the correct website
+
 
 Devices: I tested the responsiveness and functionality of the website against the following devices: 
 
@@ -156,7 +173,7 @@ And the following web browsers:
 --- ---
 VALIDATION  
 ---
-The code for this website has been put through a css-validator and a html-validator. Multiple errors were displayed and corrected to ensure the code was error free on submitting the project.
+
 --- ---
 LIGHTHOUSE
 
@@ -227,17 +244,8 @@ These were flagged in the Lighthouse report section, with more time I would addr
 
 With more time and knowledge I would like to add further pages and images including graphs and information on companies profitability. I would also like to add an optin to sign-up for a monthly newsletter and a short survey at the end of the last page.
 
-FUNCTIONALITY
 ---
-All links have been clicked and hovered over to ensure accessibility 
 
-All pages loaded correctly on all size devices that were checked
-
-All social media links worked correctly 
-
-All images loaded on each pages as expected 
-
-All external links opened in a new tab and went to the correct website
 --- ---
 TECHNOLOGIES
 ---
@@ -256,6 +264,11 @@ GITHUB - used to store repositories, file and images pushed from gitpod
 Am I Responsive - used to test responsiveness of the website in different screen sizes - I want to used this - go to website - get picture)
 
 CHROME Developer tool - for checking compatibility, toubleshooting and editing code 
+
+WAVE 
+
+TinyJpeg
+
 --- ---
 ## DEPLOYMENT
 
@@ -360,49 +373,50 @@ I used the following website to source my images and information:
 
 Homepage: 
 
-[link to image on index page](https://unsplash.com/)
+- [link to image on index page](https://unsplash.com/)
 
 Leaders: Link to images on leaders page
 
-[Link to images on leaders page](https://www.theceomagazine.com/business/management-leadership/female-ceos/)
+- [Link to images on leaders page](https://www.theceomagazine.com/business/management-leadership/female-ceos/)
 
-[Link to Know Your Value](https://www.nbcnews.com/know-your-value/feature/)
+- [Link to Know Your Value](https://www.nbcnews.com/know-your-value/feature/)
 
-[Link Heineken](women-charge-heineken-ceo-maggie-timoney-ncna1266254)
-[Link to America's Live](https://womenamericas.live.ft.com/agenda/speakers/1218139)
+- [Link Heineken](women-charge-heineken-ceo-maggie-timoney-ncna1266254)
 
-[Link to Grazia Whitney Wolfe Herd](https://graziadaily.co.uk/life/in-the-news/whitney-wolfe-herd-bmbl-justin-mateen/)
+- [Link to America's Live](https://womenamericas.live.ft.com/agenda/speakers/1218139)
 
-[#19 Safra Catz](https://www.forbes.com/profile/safra-catz/?sh=1ab57572f1fa)
+- [Link to Grazia Whitney Wolfe Herd](https://graziadaily.co.uk/life/in-the-news/whitney-wolfe-herd-bmbl-justin-mateen/)
 
-[Five Questions for Several of FORTUNE's 50 Most Powerful Women](http://content.time.com/time/specials/packages/article/0,28804,2031904_2031902_2031892,00.html)
+- [#19 Safra Catz](https://www.forbes.com/profile/safra-catz/?sh=1ab57572f1fa)
 
-[Link to Mckinsey and Company](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
+- [Five Questions for Several of FORTUNE's 50 Most Powerful Women](http://content.time.com/time/specials/packages/article/0,28804,2031904_2031902_2031892,00.html)
 
-[The Times Top 50 Employers for Women 2021](https://www.thetimes.co.uk/static/tt50/)
+- [Link to Mckinsey and Company](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
-[Link to external socure CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
+- [The Times Top 50 Employers for Women 2021](https://www.thetimes.co.uk/static/tt50/)
+
+- [Link to external socure CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
 
 Industry: 
 
-[Link to image on industry page](https://unsplash.com/)
+- [Link to image on industry page](https://unsplash.com/)
 
-[Link to Mckinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
+- [Link to Mckinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
 README: link to imagine in README
 
-[Responsiveness weblink](http://ami.responsivedesign.is/#)
+- [Responsiveness weblink](http://ami.responsivedesign.is/#)
 
 HTML and CSS Code:
 
 Index page: 
 
-[Favicon link](www.favicon.io/favicon-generator)
+- [Favicon link](www.favicon.io/favicon-generator)
 
-[Google fonts link](https://fonts.google.com/specimen/Roboto")
+- [Google fonts link](https://fonts.google.com/specimen/Roboto")
 
-[W3 schools link](www.w3schools.com)
-[Free Code Camp link](https://www.freecodecamp.org)
+- [W3 schools link](www.w3schools.com)
+- [Free Code Camp link](https://www.freecodecamp.org)
 
 Code institue: support with code and execution of webiste and design 
 - Ben Kavanagh 
@@ -420,8 +434,8 @@ Inspiration for README: layout and content:
 
 Acknowledgements: 
 
-Slack Community 
+- Slack Community 
 
-Tutors at Code Institute 
+- Tutors at Code Institute 
 
-Student care at The Learning People 
+- Student care at The Learning People 
