@@ -158,10 +158,19 @@ VALIDATION
 HTML was put through css-validator and html-validator. Multiple errors were displayed and corrected to ensure none were found once the code was run through the css and html validators again. 
 --- ---
 LIGHTHOUSE
----
-*add screenshot* 
 
-Accessibility: 
+[Link to Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools)
+
+---
+[Lighthouse report index.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-index.png)
+
+[Lighthouse report leaders.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaders.png)
+
+[Lighthouse report industry.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-industry.png)
+
+## Accessibility: 
+
+--- --- 
 
 Accessibility testing using [Wave](https://wave.webaim.org/)
 
