@@ -67,6 +67,7 @@ Top navigation bar:
 ![top navigation bar](https://github.com/brineamelia/P1-WIL/blob/main/docs/top-nav-bar.png)
 
 Footer: 
+
 ![footer](https://github.com/brineamelia/P1-WIL/blob/main/docs/footer.png)
 
 Layout and Content: 
@@ -97,15 +98,15 @@ DESIGN:
 Colour scheme: 
 As this is an educational and factual website the colour scheme was kept neutral with shades of grey and white, see hex colours below. The images have bight bold colours and the call to actions has changing colours when hovered over, in order to keep the website engaging and eye-catching. 
 
-[hex colour - whitesmoke](https://github.com/brineamelia/P1-WIL/blob/main/docs/whitesmoke.png)
+![hex colour - whitesmoke](https://github.com/brineamelia/P1-WIL/blob/main/docs/whitesmoke.png)
 
-[hex colour - white](https://github.com/brineamelia/P1-WIL/blob/main/docs/white.png)
+![hex colour - white](https://github.com/brineamelia/P1-WIL/blob/main/docs/white.png)
 
-[hex colour - grey](https://github.com/brineamelia/P1-WIL/blob/main/docs/grey.png)
+![hex colour - grey](https://github.com/brineamelia/P1-WIL/blob/main/docs/grey.png)
 
-[hex colour - dark grey](https://github.com/brineamelia/P1-WIL/blob/main/docs/darkgrey.png)
+![hex colour - dark grey](https://github.com/brineamelia/P1-WIL/blob/main/docs/darkgrey.png)
 
-[hex colour - purple](https://github.com/brineamelia/P1-WIL/blob/main/docs/purple.png)
+![hex colour - purple](https://github.com/brineamelia/P1-WIL/blob/main/docs/purple.png)
 
 I added the colour purple to highlight external links to the user and make sure they stood out from the background. 
 --- ---
@@ -162,11 +163,11 @@ LIGHTHOUSE
 [Link to Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools)
 
 ---
-[Lighthouse report index.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-index.png)
+![Lighthouse report index.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-index.png)
 
-[Lighthouse report leaders.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaders.png)
+![Lighthouse report leaders.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaders.png)
 
-[Lighthouse report industry.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-industry.png)
+![Lighthouse report industry.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-industry.png)
 
 ## Accessibility: 
 
@@ -174,11 +175,11 @@ LIGHTHOUSE
 
 Accessibility testing using [Wave](https://wave.webaim.org/)
 
-[Screenshot of Wave testing - Home page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave1.png)
+![Screenshot of Wave testing - Home page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave1.png)
 
-[Screenshot of Wave testing - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave2.png)
+![Screenshot of Wave testing - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave2.png)
 
-[Screenshor of Wave testing - Leaderes page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave3.png)
+![Screenshor of Wave testing - Leaderes page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave3.png)
 
 Wave testing : Across all pages
 
