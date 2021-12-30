@@ -31,7 +31,7 @@ p {
   font-family: "Roboto";
   font-size: 2rem;
   text-decoration: none;
-  color: #fff;
+  color: #393e3e;
 }
 
 .wil-link {
@@ -114,10 +114,10 @@ a {
 .heading {
   color: whitesmoke;
   font-size: x-large;
-  text-decoration: underline;
   page-break-after: auto;
   font-weight: bold;
   font-size: 2rem;
+  text-decoration: underline;
 
 }
 .hero-text {
@@ -161,7 +161,6 @@ a {
 
 .heading2 {
   font-size:x-large;
-  text-decoration: underline;
   page-break-after: auto;
   font-weight: bold;
   color: grey;
@@ -171,7 +170,6 @@ a {
 }
 
 .FLsub-heading {
-  text-decoration: underline;
   text-align: center;
   letter-spacing: 2px;
   font-weight: bolder;
@@ -239,7 +237,7 @@ text-align: center;
 cursor: pointer;
 outline: none;
 color:whitesmoke;
-background-color: grey;
+background-color:#393e3e;
 border: none;
 border-radius: 50px;
 box-shadow: 0 6px whitesmoke;
@@ -251,7 +249,7 @@ border:solid 2px whitesmoke;
 
 .button2:hover {
   background-color:whitesmoke;
-  border:solid 2px grey;
+  border:solid 2px #393e3e;
 
 }
 
@@ -320,11 +318,11 @@ border:solid 2px whitesmoke;
   margin-top: 25px;
 }
     .FLsub-heading2 {
-      text-decoration: underline;
       text-align: left;
       letter-spacing: 2px;
       font-weight: bolder;
       padding-left: 20px;
+      padding-top: 20px;
     }
 
 .underline {text-decoration: underline;
@@ -339,11 +337,12 @@ border:solid 2px whitesmoke;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: whitesmoke;
   padding-bottom: 30%;
   font-size: 1.5rem;
   text-shadow: 2px 2px 1px black;
   font-weight:700;
+  text-decoration: underline;
 }
 
 /* make image smaller */
@@ -369,6 +368,7 @@ border:solid 2px whitesmoke;
     font-size: 5rem;
     text-shadow: 2px 2px 1px black;
     font-weight:700;
+    
   }
   .hero-text 
   {
@@ -396,6 +396,7 @@ border:solid 2px whitesmoke;
     font-size: 1.5rem;
     text-shadow: 2px 2px 1px black;
     font-weight:700;
+    text-decoration: underline;
   }
   .hero-text 
   {
@@ -423,6 +424,7 @@ border:solid 2px whitesmoke;
     font-size: 1.5rem;
     text-shadow: 2px 2px 1px black;
     font-weight:700;
+    text-decoration: underline;
 
   }
   .hero-text {
@@ -433,4 +435,8 @@ border:solid 2px whitesmoke;
     transform: translate(-50%, -50%);
     color: whitesmoke;
     padding-top: 1rem;
-    font-size: 2rem;}
+    font-size: 2rem;
+  }
+  }
+}
+
