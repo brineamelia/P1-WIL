@@ -6,7 +6,7 @@ This project highlights the conclusion of McKinsey and Company report of 'Divers
 
 As well as tangible and visual data, Women in Leadership also gives examples of female leaders in 2021 and companies currently supporting women into leadership roles. 
 
-![Responsive image of project](https://github.com/brineamelia/P1-WIL/blob/main/docs/responsive.png)
+![Responsive image of project](https://github.com/brineamelia/P1-WIL/blob/main/docs/responsive1.png)
 
 -- --
 INITIAL IDEA AND CONCEPT
