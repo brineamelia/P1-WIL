@@ -315,7 +315,11 @@ Code institue: support with code and execution of webiste and design
 
 Inspiration for README: layout and content:
 
+- Chris Williams
+
 [Example README](https://github.com/Chr15w1986/Portfolio-1)
+
+- Clayton File 
 
 [Example README](https://github.com/TechCentreUK/Eco-Print)
 
