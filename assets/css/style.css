@@ -31,12 +31,13 @@ p {
   font-family: "Roboto";
   font-size: 2rem;
   text-decoration: none;
-  color: #393e3e;
+  color: white;
 }
 
 .wil-link {
   background-color: grey;
   box-shadow: 0 5px grey;
+  margin-top: 0;
 }
 
 /* Top nav bar*/
@@ -330,6 +331,14 @@ border:solid 2px whitesmoke;
 
 /*companies on industry page*/
 
+.industry-hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/diversity.jpeg");
+  height: 80vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 
 .hero-text2 {
   text-align: center;
@@ -342,7 +351,7 @@ border:solid 2px whitesmoke;
   font-size: 1.5rem;
   text-shadow: 2px 2px 1px black;
   font-weight:700;
-  text-decoration: underline;
+  
 }
 
 /* make image smaller */
@@ -396,7 +405,7 @@ border:solid 2px whitesmoke;
     font-size: 1.5rem;
     text-shadow: 2px 2px 1px black;
     font-weight:700;
-    text-decoration: underline;
+    
   }
   .hero-text 
   {
@@ -424,7 +433,6 @@ border:solid 2px whitesmoke;
     font-size: 1.5rem;
     text-shadow: 2px 2px 1px black;
     font-weight:700;
-    text-decoration: underline;
 
   }
   .hero-text {
