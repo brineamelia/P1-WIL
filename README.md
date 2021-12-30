@@ -160,7 +160,7 @@ The code for this website has been put through a css-validator and a html-valida
 --- ---
 LIGHTHOUSE
 
-I ran each live page through Chrome Lighthouse and came out with an average of performance of 85%. 
+I ran each live webpage through Chrome Lighthouse and came out with an average performance of 85%. 
 
 [Link to Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools)
 
@@ -223,7 +223,7 @@ I went through all the HTMl and CSS and removed any duolicate or unused code as 
 
 --- ---- 
 
-There were flagged in the Lighthouse report section, with more time I would addresss these to bring the website performance up to 100%. 
+These were flagged in the Lighthouse report section, with more time I would addresss these issues to bring the website performance up to 100%. 
 
 FUNCTIONALITY
 ---
@@ -298,7 +298,8 @@ README: link to imagine in README
 
 [Responsiveness weblink](http://ami.responsivedesign.is/#)
 
-HTML: 
+HTML and CSS Code:
+
 Index page: 
 
 [Favicon link](www.favicon.io/favicon-generator)
@@ -308,13 +309,23 @@ Index page:
 [W3 schools link](www.w3schools.com)
 [Free Code Camp link](https://www.freecodecamp.org)
 
+Code institue: support with code and execution of webiste and design 
+- Ben Kavanagh 
+- Harry 
+
 Inspiration for README: layout and content:
 
 [Example README](https://github.com/Chr15w1986/Portfolio-1)
 
 [Example README](https://github.com/TechCentreUK/Eco-Print)
 
+Acknowledgements: 
 
+Slack Community 
+
+Tutors at Code Institute 
+
+Student care at The Learning People 
 
 
 
