@@ -143,8 +143,16 @@ LIGHTHOUSE
 *add screenshot* 
 
 Accessibility: 
+
 Accessibility testing using [Wave](https://wave.webaim.org/)
-*add screenshot*
+
+[Screenshot of Wave testing - Home page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave1.png)
+
+[Screenshot of Wave testing - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave2.png)
+
+[Screenshor of Wave testing - Leaderes page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave3.png)
+
+
 --- ---
 SOLVED BUGS AND ERRORS 
 --
