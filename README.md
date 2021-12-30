@@ -171,10 +171,7 @@ And the following web browsers:
 - Internet Explorer
 
 --- ---
-VALIDATION  
----
 
---- ---
 LIGHTHOUSE
 
 I ran each live webpage through Chrome Lighthouse and came out with an average performance of 85%. 
