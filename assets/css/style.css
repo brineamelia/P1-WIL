@@ -117,6 +117,7 @@ a {
   text-decoration: underline;
   page-break-after: auto;
   font-weight: bold;
+  font-size: 2rem;
 
 }
 .hero-text {
@@ -127,6 +128,7 @@ a {
   transform: translate(-50%, -50%);
   color: whitesmoke;
   padding-top: 1rem;
+  font-size: 0.8rem;
 }
 .welcome {
   font-size: 0.75rem;
@@ -319,17 +321,6 @@ text-align: center;
 
 /*companies on industry page*/
 
-.company-1 {
-  text-align:left  
-}
-
-.company-2 {
-  text-align:left
-}
-
-.company-3 {
-  text-align: left
-}
 
 .hero-text2 {
   text-align: center;
@@ -368,7 +359,18 @@ text-align: center;
     text-shadow: 2px 2px 1px black;
     font-weight:700;
   }
+  .hero-text 
+  {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+    padding-top: 1rem;
+    font-size: 2rem;
 }
+} 
 
 /* repositon text @ 768px */
 @media only screen and (min-width: 768px) {
@@ -384,9 +386,20 @@ text-align: center;
     text-shadow: 2px 2px 1px black;
     font-weight:700;
   }
+  .hero-text 
+  {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+    padding-top: 1rem;
+    font-size: 2rem;
 }
 
 /* reposition hero text @ 360px */
+
 @media only screen and (max-width: 360px) {
   .hero-text2 {
     text-align: center;
@@ -399,5 +412,16 @@ text-align: center;
     font-size: 1.5rem;
     text-shadow: 2px 2px 1px black;
     font-weight:700;
+
   }
+  .hero-text 
+  {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+    padding-top: 1rem;
+    font-size: 2rem;
 }
