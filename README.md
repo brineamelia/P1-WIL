@@ -353,7 +353,7 @@ Type git clone and then paste the URL you copied in step 4
 Press Enter, to create your local clone to your chosen directory
 --- --
 
-## CREDIT REFERENCES:
+## CREDITS/REFERENCES:
 ---
 Images:
 I used the following website to source my images and information: 
@@ -406,7 +406,7 @@ Index page:
 
 Code institue: support with code and execution of webiste and design 
 - Ben Kavanagh 
-- Harry 
+- Harry Leepz
 
 Inspiration for README: layout and content:
 
@@ -425,17 +425,3 @@ Slack Community
 Tutors at Code Institute 
 
 Student care at The Learning People 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
