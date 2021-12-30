@@ -156,15 +156,13 @@ And the following web browsers:
 --- ---
 VALIDATION  
 ---
-HTML was put through css-validator and html-validator. Multiple errors were displayed and corrected to ensure none were found once the code was run through the css and html validators again. 
+The code for this website has been put through a css-validator and a html-validator. Multiple errors were displayed and corrected to ensure the code was error free on submitting the project.
 --- ---
 LIGHTHOUSE
 
 I ran each live page through Chrome Lighthouse and came out with an average of performance of 85%. 
 
 [Link to Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools)
-
----
 
 Index/Homepage
 
@@ -183,9 +181,15 @@ Industry Page
 
 Accessibility testing using [Wave](https://wave.webaim.org/)
 
+Index/Homepage
+
 ![Screenshot of Wave testing - Home page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave1.png)
 
+Leaders Page 
+
 ![Screenshot of Wave testing - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave2.png)
+
+Industry Page
 
 ![Screenshor of Wave testing - Leaderes page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave3.png)
 
@@ -199,22 +203,39 @@ Leaders page:
 --- ---
 SOLVED BUGS AND ERRORS 
 --
-I wanted the content to expand and fit the screen, I did this using flex box. It required me to set the height to the body and html elements 
+On my index page I wanted the content to expand and fit the screen. I achieved this using flex box. It required me to set the height to the body and html elements 
+
 On the industry page I realised this was compressing sections of html, this was due to the height being set but not giving a minimum height. 
 
-However when minimum hight was set this caused the hero image on the index page to then not have a height. Due to a limited time frame available at this stage I was unable to reach a more dynamic resolution to this therefore used explicit height using calc (css tool). If more time was available I would try and work out a more generic fix that would apply to all three pages without having to explicitly state a hight for this specific element.  
+When minimum hight was set this caused the hero image on the index page to then not have a height. Due to a limited time frame available at this stage I was unable to reach a more dynamic resolution to this therefore used explicit height using calc (css tool).
+
+If more time was available I would try and work out a more generic fix that would apply to all three pages without having to explicitly state a hight for this specific element.  
+
+I went through all the HTMl and CSS and removed any duolicate or unused code as well as removing unwanted lines and spaces. I used 
 
 ![image of bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/bug1.png)
 
 ![image of fixed bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/fixed-bug1.png)
 
 --- ---
+
+## UNSOLVED BUGS AND ERRORS
+
+--- ---- 
+
+There were flagged in the Lighthouse report section, with more time I would addresss these to bring the website performance up to 100%. 
+
 FUNCTIONALITY
 ---
 All links have been clicked and hovered over to ensure accessibility 
-All pages loaded correctly on all size device screens 
+
+All pages loaded correctly on all size devices that were checked
+
 All social media links worked correctly 
+
 All images loaded on each pages as expected 
+
+All external links opened in a new tab and went to the correct website
 --- ---
 TECHNOLOGIES
 ---
