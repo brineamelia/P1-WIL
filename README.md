@@ -278,97 +278,90 @@ REMOTE DEPLOYMENT:
 (Assuming you have already cloned or forked,)
 
 This site was deployed using GitHub Pages with the following the steps:
-Click on the Settings icon at the top of page in the navigation bar
-Scroll down until you see Github Pages
-There will be a message box saying "Check it out here" Click on the link to take you to the next page
-Here you will be greated with a form, Choose the repository Project-1
-Choose the branch in the drop down box, in this case MAIN
-Choose the directory in the next drop down box, in this case Root
-Then click Save
-It may take a few moments for the site to publish, but once live, the box at the top of the page with the site name will turn green and have a Green tick to the left of the link to the live site
-Another way to find the live site is to navigate to settings, on the left menu click on pages and this will get you to the same point.
+
+- Click on the Settings icon at the top of page in the navigation bar
+
+- Scroll down until you see Github Pages
+
+- There will be a message box saying "Check it out here" Click on the link to take you to the next page
+
+- Here you will be greated with a form, Choose the repository Project-1
+
+- Choose the branch in the drop down box, in this case MAIN
+
+- Choose the directory in the next drop down box, in this case Root
+
+- Then click Save
+
+- It may take a few moments for the site to publish, but once live, the box at the top of the page with the site name will turn green and have a Green tick to the left of the link to the live site
+
+- Another way to find the live site is to navigate to settings, on the left menu click on pages and this will get you to the same point.
+
 These commands were used for version control during project:
 
-git add example filename - to add files before committing
-git commit -m "example message" - to commit changes to the local repository
-git push - to push all committed changes to the GitHub repository
+- git add example filename - to add files before committing
+
+- git commit -m "example message" - to commit changes to the local repository
+
+- git push - to push all committed changes to the GitHub repository
+
 HOW TO FORK A REPOSITORY:
+
 If you need to "FORK" a repository:
 
-If you have not already, login in to GitHub and go to https://github.com/brineamelia/P1-WIL
-In the top right corner, click Fork
-The next page will be the forked version of https://github.com/brineamelia/P1-WIL but in your own repository
+- If you have not already, login in to GitHub and go to https://github.com/brineamelia/P1-WIL
+
+- In the top right corner, click Fork
+
+- The next page will be the forked version of https://github.com/brineamelia/P1-WIL but in your own repository
+
 HOW TO CLONE A REPOSITORY:
+
 If you need to make a clone of this repository:
 
-Fork the repository https://github.com/brineamelia/P1-WIL using the steps above
-Above the file list, click Code (Usually green at the top right of the code window)
-Choose if you want to clone using HTTPS, SSH or GitHub CLI, then click the copy button to the right
-Open Git Bash
-Change the directory to where you want your clone to go (your own github)
-Type git clone and then paste the URL you copied in step 4
-Press Enter to create your clone
+- Fork the repository https://github.com/brineamelia/P1-WIL using the steps above
+
+- Above the file list, click Code (Usually green at the top right of the code window)
+
+- Choose if you want to clone using HTTPS, SSH or GitHub CLI, then click the copy button to the right
+
+- Open Git Bash
+
+- Change the directory to where you want your clone to go (your own github)
+
+- Type git clone and then paste the URL you copied in step 4
+
+- Press Enter to create your clone
+
 HOW TO MAKE A LOCAL CLONE
+
 If you need to make a local clone:
 
 If you have not already, login in to GitHub and go to https://github.com/brineamelia/P1-WIL
-Under the repository name, above the list of files, click Code
-Here you will have two options, Clone or Download the repository
-You should close the repository using HTTPS, clicking on the icon to copy the link
+
+- Under the repository name, above the list of files, click Code
+
+- Here you will have two options, Clone or Download the repository
+
+- You should close the repository using HTTPS, clicking on the icon to copy the link
+
 At this point, you can launch the Gitpod workspace or choose your own directory
-Open Git Bash
-Change the current working directory to the new location of where you want the cloned directory to be
-Type git clone and then paste the URL you copied in step 4
-Press Enter, to create your local clone to your chosen directory
 
-This website was deployed using GitHub Pages with the following the steps:
-Click on the Settings icon at the top of page in the navigation bar
-Scroll down until you see Github Pages
-There will be a message box saying "Check it out here" Click on the link to take you to the next page
-Here you will be greated with a form, Choose the repository Project-1
-Choose the branch in the drop down box, in this case MAIN
-Choose the directory in the next drop down box, in this case Root
-Then click Save
-It may take a few moments for the site to publish, but once live, the box at the top of the page with the site name will turn green and have a Green tick to the left of the link to the live site
-Another way to find the live site is to navigate to settings, on the left menu click on pages and this will get you to the same point.
-These commands were used for version control during project:
+- Open Git Bash
 
-git add example filename - to add files before committing
-git commit -m "example message" - to commit changes to the local repository
-git push - to push all committed changes to the GitHub repository
-HOW TO FORK A REPOSITORY:
-If you need to "FORK" a repository:
+- Change the current working directory to the new location of where you want the cloned directory to be
 
-If you have not already, login in to GitHub and go to https://github.com/brineamelia/P1-WIL
-In the top right corner, click Fork
-The next page will be the forked version of https://github.com/brineamelia/P1-WIL but in your own repository
-HOW TO CLONE A REPOSITORY:
-If you need to make a clone of this repository:
+- Type git clone and then paste the URL you copied in step 4
 
-Fork the repository https://github.com/brineamelia/P1-WIL using the steps above
-Above the file list, click Code (Usually green at the top right of the code window)
-Choose if you want to clone using HTTPS, SSH or GitHub CLI, then click the copy button to the right
-Open Git Bash
-Change the directory to where you want your clone to go (your own github)
-Type git clone and then paste the URL you copied in step 4
-Press Enter to create your clone
-HOW TO MAKE A LOCAL CLONE
-If you need to make a local clone:
+- Press Enter, to create your local clone to your chosen directory
 
-If you have not already, login in to GitHub and go to https://github.com/brineamelia/P1-WIL
-Under the repository name, above the list of files, click Code
-Here you will have two options, Clone or Download the repository
-You should close the repository using HTTPS, clicking on the icon to copy the link
-At this point, you can launch the Gitpod workspace or choose your own directory
-Open Git Bash
-Change the current working directory to the new location of where you want the cloned directory to be
-Type git clone and then paste the URL you copied in step 4
-Press Enter, to create your local clone to your chosen directory
 --- --
 
 ## CREDITS/REFERENCES:
 ---
+
 Images:
+
 I used the following website to source my images and information: 
 
 Homepage: 
