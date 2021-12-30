@@ -9,21 +9,21 @@ As well as tangible and visual data, Women in Leadership also gives examples of 
 ![Responsive image of project](https://github.com/brineamelia/P1-WIL/blob/main/docs/responsive1.png)
 
 -- --
-INITIAL IDEA AND CONCEPT
---
+## INITIAL IDEA AND CONCEPT
+
 
 Having worked in corporate industry for the past 3 years it has become apparent the current drive for more women to be supported into leaderships roles and the knock on impact this is having on company outcomes and success. 
 
 As a member of my company’s Women’s Network, I wanted a single website for my colleagues to visit in order to broaden their understanding of why we need more women in leadership but also to understand the impact this can have on companies overall success.
 -- - 
-FEATURES 
---
+## FEATURES 
+
 Across the website I wanted to include the continuous features of the top and bottom "navbar" and call to action buttons. I wanted the information to be easy to access and read, along with supplying external links to acquire further information. 
 
 --- ---
 
-UX/UI:
---
+## UX/UI:
+
 - I created this website to demonstrate my knowledge and skills of HTML and CSS. 
 - I wanted a website users could visit to easily acquire insightful information both qualitative and quantitative on the site topic. 
 - I wanted the website to be easy to navigate and to have links to external information. 
@@ -52,7 +52,7 @@ Wireframes: Initial plans for my website and mobile design using wireframes.
 ![wireframe of page 3 women in leadership](https://github.com/brineamelia/P1-WIL/blob/main/docs/wireframe3.png)
 
 --- ----
-Features: 
+## Features: 
 
 The site consists of the following: 
 
@@ -64,13 +64,17 @@ Each page will have a top navigation bar including internal links to the home pa
 - Each page will have an image to support the text or purpose of the website 
 
 Top navigation bar:
+
 ![top navigation bar](https://github.com/brineamelia/P1-WIL/blob/main/docs/top-nav-bar.png)
 
-Footer: 
+
+Footer:
 
 ![footer](https://github.com/brineamelia/P1-WIL/blob/main/docs/footer.png)
 
-Layout and Content: 
+--- ---
+
+## Layout and Content: 
 
 - Each page will have a top navigation bar including internal links to the home page, leaders page and industry page. 
 - Each page will have a footer including links to social media pages
@@ -83,8 +87,8 @@ The Leaders page will have images and text of three different leaders, an extern
 
 The Industry page will have a hero image and text outlining the current works of three companies improving their diversity, along with an external link to the McKinsey and Co full diversity report.
 --- ---
-NAVBAR EFFECTS AND FOOTER SOCIAL MEDIA LINKS
----
+## NAVBAR EFFECTS AND FOOTER SOCIAL MEDIA LINKS
+
 To ensure the user was easily able to navigate through the website the navbar has the page underlined indicating which page the user is viewing. 
 
 ![navbar navitation to home, leaders and industry](https://github.com/brineamelia/P1-WIL/blob/main/docs/top-nav-bar.png)
@@ -93,8 +97,8 @@ When using the footer, each link underlines as the user places their cursor over
 ![Example 1: footer with social media links](https://github.com/brineamelia/P1-WIL/blob/main/docs/easy-navigation.png)
 ![Example 2: footer with social media links](https://github.com/brineamelia/P1-WIL/blob/main/docs/easy-navigation2.png)
 --- ---
-DESIGN:
---
+## DESIGN:
+
 Colour scheme: 
 As this is an educational and factual website the colour scheme was kept neutral with shades of grey and white, see hex colours below. The images have bight bold colours and the call to actions has changing colours when hovered over, in order to keep the website engaging and eye-catching. 
 
@@ -110,18 +114,18 @@ As this is an educational and factual website the colour scheme was kept neutral
 
 I added the colour purple to highlight external links to the user and make sure they stood out from the background. 
 --- ---
-IMAGE:
---
+ ## IMAGE:
+
 There is a total of 6 images across the site. All these images have remained standard as not to distort the pixels. 
 All images were compressed using tinyjpg. 
 -- --
 
-TYPOGRAPHY
---
+## TYPOGRAPHY
+
 The fonts used for the site were sourced from Google Fonts and included; ‘Robot’ and ‘sans-serif’. 
 -- --
  ## TESTING:
---
+
 USER STORY TESTING:
 The site has undergone multiple test across each page including a full validation for html and CSS. 
 As a user I wanted to understand the purpose of the website - this is supported by the home page with a welcome paragraph under the heading ‘Welcome to women in leadership”. 
@@ -135,7 +139,7 @@ As a user I wanted to learn something new, this was achieved by keeping text min
 As a user I wanted to have access to further information not included on the website. This was achieved by including external links to websites relating to the topic of the site. 
 
 
-MANUAL TESTING:
+## MANUAL TESTING:
 
 - The code for this website has been put through a css-validator and a html-validator. Multiple errors were displayed and corrected to ensure the code was error free on submitting the project.
 
@@ -172,7 +176,7 @@ And the following web browsers:
 
 --- ---
 
-LIGHTHOUSE
+## LIGHTHOUSE
 
 I ran each live webpage through Chrome Lighthouse and came out with an average performance of 85%. 
 
@@ -213,10 +217,9 @@ Wave testing : Across all pages
 
 Index page: Wave highlighted the underlining of the hero image text as an alert. I kept this as I wanted it to stand out and be the first text the reader saw/read. I kept the underline decoration to make it more eyecatching.  
 
-Leaders page: 
 --- ---
 ## SOLVED BUGS AND ERRORS 
---
+
 On my index page I wanted the content to expand and fit the screen. I achieved this using flex box. It required me to set the height to the body and html elements 
 
 On the industry page I realised this was compressing sections of html, this was due to the height being set but not giving a minimum height. 
@@ -235,23 +238,20 @@ I went through all the HTMl and CSS and removed any duolicate or unused code as 
 
 ## UNSOLVED BUGS AND ERRORS
 
---- ---- 
-
 These were flagged in the Lighthouse report section, with more time I would addresss these issues to bring the website performance up to 100%. 
 
 With more time and knowledge I would like to add further pages and images including graphs and information on companies profitability. I would also like to add an optin to sign-up for a monthly newsletter and a short survey at the end of the last page.
 
----
 
 --- ---
-TECHNOLOGIES
----
+## TECHNOLOGIES
+
 [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)
 
 [HTML](https://en.wikipedia.org/wiki/HTML5)
 -- ---
-PROGRAMMES USED:
----  
+## PROGRAMMES USED:
+ 
 GIT - version control, committing and pushing to GitHub
 
 GITPOD - the IDE used to code this website 
@@ -271,7 +271,6 @@ TinyJpeg
 
 REMOTE DEPLOYMENT:
 
-REMOTE DEPLOYMENT:
 (Assuming you have already cloned or forked,)
 
 This site was deployed using GitHub Pages with the following the steps:
@@ -355,7 +354,6 @@ At this point, you can launch the Gitpod workspace or choose your own directory
 --- --
 
 ## CREDITS/REFERENCES:
----
 
 Images:
 
