@@ -160,7 +160,7 @@ a {
 /* pictures of 3x leaders and supporting text*/
 
 .heading2 {
-  font-size:large;
+  font-size:x-large;
   text-decoration: underline;
   page-break-after: auto;
   font-weight: bold;
@@ -175,6 +175,7 @@ a {
   text-align: center;
   letter-spacing: 2px;
   font-weight: bolder;
+  font-size:30px;
 }
 
 .content-image {
@@ -212,8 +213,10 @@ a {
 }
 
 .text {
-  font-size: 10px;
-  padding-left: 20px;
+  font-size: 16px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  padding-right: 40px;
 }
 
 .quote {
@@ -269,15 +272,16 @@ border:solid 2px whitesmoke;
 }
 
 .external-link1 {
-  color:grey;
+  color: #551a8b;
   text-align: center;
   margin:auto;
   padding-bottom: 20px;
   padding-top: 20px;
   text-decoration: none;
-  font-size:30px;
+  font-size:1rem;
   font-weight: bold;
-  letter-spacing:2px
+  letter-spacing:2px;
+  font-weight: bolder;
 }
 
 /*industry.html*/
@@ -291,29 +295,37 @@ border:solid 2px whitesmoke;
 
 /*Mckinsey and Company report*/
 
+.quote2 {
+  text-align: left;
+  font-style: none;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
 .mc-conclusion {
   font-size: 1rem;
   font-style: italic;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-    text-align: center;
-     
+  font-family: "Roboto";
+  text-align: center;
+  color: #57585c;
+  margin-top: 5px;
 }
 
 .mc-conclusion2 {
-  font-size: 2rem;
+  font-size: 1rem;
   font-style: italic;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-    text-align: center;
+  font-family: "Roboto";
+  text-align: center;
+  color: #57585c;
+  font-weight: bolder;
+  margin-top: 25px;
 }
-
-.mc-conclusion3 {
-font-size: 2rem;
-font-style: italic;
-font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-text-align: center;
+    .FLsub-heading2 {
+      text-decoration: underline;
+      text-align: left;
+      letter-spacing: 2px;
+      font-weight: bolder;
+      padding-left: 20px;
     }
 
 .underline {text-decoration: underline;
