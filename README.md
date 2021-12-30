@@ -186,50 +186,56 @@ CREDIT REFERENCES:
 Images:
 I used the following website to source my images and information: 
 
-    Homepage: Link to image on homepage 
+Homepage: Link to image on homepage 
 
-    [link to image on industry page](https://unsplash.com/)
+[link to image on industry page](https://unsplash.com/)
 
-    Leaders: Link to images on leaders page
+Leaders: Link to images on leaders page
 
-    - ![link to images on leaders page](https://www.theceomagazine.com/business/management-leadership/female-ceos/)
+[Link to images on leaders page](https://www.theceomagazine.com/business/management-leadership/female-ceos/)
 
-    ![link to Know Your Value](https://www.nbcnews.com/know-your-value/feature/)
+[Link to Know Your Value](https://www.nbcnews.com/know-your-value/feature/)
 
-    ![Link Heineken](women-charge-heineken-ceo-maggie-timoney-ncna1266254)
-        ![Link to America's Live](https://womenamericas.live.ft.com/agenda/speakers/1218139)
+[Link Heineken](women-charge-heineken-ceo-maggie-timoney-ncna1266254)
+[Link to America's Live](https://womenamericas.live.ft.com/agenda/speakers/1218139)
 
-        ![Link to Grazia Whitney Wolfe Herd](https://graziadaily.co.uk/life/in-the-news/whitney-wolfe-herd-bmbl-justin-mateen/)
+[Link to Grazia Whitney Wolfe Herd](https://graziadaily.co.uk/life/in-the-news/whitney-wolfe-herd-bmbl-justin-mateen/)
 
-        ![#19 Safra Catz](https://www.forbes.com/profile/safra-catz/?sh=1ab57572f1fa)
+[#19 Safra Catz](https://www.forbes.com/profile/safra-catz/?sh=1ab57572f1fa)
 
-    ![Five Questions for Several of FORTUNE's 50 Most Powerful Women
-    ](http://content.time.com/time/specials/packages/article/0,28804,2031904_2031902_2031892,00.html)
+[Five Questions for Several of FORTUNE's 50 Most Powerful Women](http://content.time.com/time/specials/packages/article/0,28804,2031904_2031902_2031892,00.html)
 
-    ![link to Mckinsey and Company](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
+[Link to Mckinsey and Company](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
-    [The Times Top 50 Employers for Women 2021](https://www.thetimes.co.uk/static/tt50/)
+[The Times Top 50 Employers for Women 2021](https://www.thetimes.co.uk/static/tt50/)
 
-    [link to external socure CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
+[link to external socure CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
 
-    Industry: Link to image on Industry page
+Industry: Link to image on Industry page
 
-    - [link to image on industry page](https://unsplash.com/)
+[link to image on industry page](https://unsplash.com/)
 
-    [Link to Mckinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
+[Link to Mckinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
-    README: link to imagine in README
+README: link to imagine in README
 
-    - ![responsiveness weblink](http://ami.responsivedesign.is/#)
+[responsiveness weblink](http://ami.responsivedesign.is/#)
 
-    HTML: 
-    Index page: 
-    ![favicon link](www.favicon.io/favicon-generator)
+HTML: 
+Index page: 
 
-    ![google fonts link](https://fonts.google.com/specimen/Roboto")
+[favicon link](www.favicon.io/favicon-generator)
 
-    ![W3 schools link](www.w3schools.com)
-    ![Free Code Camp link](https://www.freecodecamp.org)
+[google fonts link](https://fonts.google.com/specimen/Roboto")
+
+[W3 schools link](www.w3schools.com)
+[Free Code Camp link](https://www.freecodecamp.org)
+
+Inspiration for README: layout and content:
+
+[Example README](https://github.com/Chr15w1986/Portfolio-1)
+
+[Example README](https://github.com/TechCentreUK/Eco-Print)
 
 
 
