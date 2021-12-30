@@ -160,13 +160,21 @@ HTML was put through css-validator and html-validator. Multiple errors were disp
 --- ---
 LIGHTHOUSE
 
+I ran each live page through Chrome Lighthouse and came out with an average of performance of 85%. 
+
 [Link to Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools)
 
 ---
+
+Index/Homepage
+
 ![Lighthouse report index.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-index.png)
+
+Leaders Page
 
 ![Lighthouse report leaders.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaders.png)
 
+Industry Page
 ![Lighthouse report industry.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-industry.png)
 
 ## Accessibility: 
@@ -183,7 +191,7 @@ Accessibility testing using [Wave](https://wave.webaim.org/)
 
 Wave testing : Across all pages
 
-- Wave flagged a redundent link as an alert acros all three pages. This link sits within the navbar and acts as "Home". There is also a home link situated in the top left had corner of each page. I kept this in situ as I feel it assists with the navigation of the website
+- Wave flagged a redundent link as an alert acros all three pages. This link sits within the navbar and acts as a "Home button". There is also a home link situated in the top left had corner of each page. I kept this in situ as I feel it assists with the navigation of the website. 
 
 Index page: Wave highlighted the underlining of the hero image text as an alert. I kept this as I wanted it to stand out and be the first text the reader saw/read. I kept the underline decoration to make it more eyecatching.  
 
