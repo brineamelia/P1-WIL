@@ -8,7 +8,6 @@
 >4. [Features](#FEATURES)
 >5. [Layout and Content](#Layout-and-Content)
 >6. [Navbar effects and footer - social media links](#NAVBAR-EFFECTS-AND-FOOTER-SOCIAL-MEDIA-LINKS)
-
 >7. [Design](#DESIGN)
 >8. [Image](#IMAGE)
 >9. [Typography](#TYPOGRAPHY)
