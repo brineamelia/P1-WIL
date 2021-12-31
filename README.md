@@ -235,7 +235,7 @@ Index/Homepage
 
 Leaders Page 
 
-![Wave report - Leaders page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaderspage.png)
+![Wave report - Leaders page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave-leaders.png)
 
 Industry Page
 
