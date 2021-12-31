@@ -1,6 +1,37 @@
 # **Women in Leadership**
 
+--- ---
+
+## TABLE OF CONTENT
+
+>1. [Purpose](#PURPOSE)
+>2. [Idea and Concept](#INITIAL IDEA AND CONCEPT)
+>3. [UX/UI](#UX/UI)
+>4. [Feautres](#FEATURES)
+>5. [Layout and Content](#Layout and Content)
+>6. [Navbar effects and footer - socail media links](#NAVBAR EFFECTS AND FOOTER SOCIAL MEDIA LINKS
+)
+>7. [Design](#DESIGN)
+>8. [Image](# IMAGE)
+>9. [Typography](#TYPOGRAPHY)
+>10. [Testing](#TESTING)
+>11. [Manual Testing](#MANUAL TESTING)
+>12. [Lightouse](#LIGHTHOUSE)
+>13. [Accessibility](#Accessibility)
+>14. [Solved bugs and errors(#SOLVED BUGS AND ERRORS)
+>15. [Solved bugs and errors(#UNSOLVED BUGS AND ERRORS)
+>16. [Technologies](#TECHNOLOGIES)
+>17. [Programmes used](#PROGRAMMES USED)
+>18. [Deployment](#DEPLOYMENT)
+>19. [Credits and References](#CREDITS/REFERENCES)
+>20. [Acknowledgements](#Acknowledgements)
+
+
 [View live project here](https://brineamelia.github.io/P1-WIL/)
+
+--- ----
+
+## PURPOSE 
 
 This project highlights the conclusion of McKinsey and Company report of 'Diversity Wins: How Inclusion Matters’, written in May 2020. Women in Leadership offers a ‘one stop shop’ location to acquire a basic understanding of why we need to support women into leadership roles and the positive impact this is having on business outcomes. 
 
@@ -8,7 +39,7 @@ As well as tangible and visual data, Women in Leadership also gives examples of 
 
 ![Responsive image of project](https://github.com/brineamelia/P1-WIL/blob/main/docs/responsive1.png)
 
--- --
+--- ---
 ## INITIAL IDEA AND CONCEPT
 
 
@@ -16,7 +47,7 @@ Having worked in corporate industry for the past 3 years it has become apparent 
 
 As a member of my company’s Women’s Network, I wanted a single website for my colleagues to visit in order to broaden their understanding of why we need more women in leadership but also to understand the impact this can have on companies overall success.
 -- - 
-## FEATURES 
+FEATURES 
 
 Across the website I wanted to include the continuous features of the top and bottom "navbar" and call to action buttons. I wanted the information to be easy to access and read, along with supplying external links to acquire further information. 
 
@@ -87,7 +118,7 @@ The Leaders page will have images and text of three different leaders, an extern
 
 The Industry page will have a hero image and text outlining the current works of three companies improving their diversity, along with an external link to the McKinsey and Co full diversity report.
 --- ---
-## NAVBAR EFFECTS AND FOOTER SOCIAL MEDIA LINKS
+## NAVBAR EFFECTS AND FOOTER - SOCIAL MEDIA LINKS
 
 To ensure the user was easily able to navigate through the website the navbar has the page underlined indicating which page the user is viewing. 
 
@@ -421,7 +452,7 @@ Inspiration for README: layout and content:
 
 [Example README](https://github.com/TechCentreUK/Eco-Print)
 
-Acknowledgements: 
+## Acknowledgements: 
 
 - Slack Community 
 
