@@ -1,22 +1,20 @@
 # **Women in Leadership**
 
---- ---
-
 ## TABLE OF CONTENT
 
 >1. [Purpose](#PURPOSE)
 >2. [Idea and Concept](#INITIAL IDEA AND CONCEPT)
 >3. [UX/UI](#UX/UI)
->4. [Feautres](#FEATURES)
+>4. [Features](#FEATURES)
 >5. [Layout and Content](#Layout and Content)
->6. [Navbar effects and footer - socail media links](#NAVBAR EFFECTS AND FOOTER SOCIAL MEDIA LINKS
+>6. [Navbar effects and footer - social media links](#NAVBAR EFFECTS AND FOOTER SOCIAL MEDIA LINKS
 )
 >7. [Design](#DESIGN)
 >8. [Image](# IMAGE)
 >9. [Typography](#TYPOGRAPHY)
 >10. [Testing](#TESTING)
 >11. [Manual Testing](#MANUAL TESTING)
->12. [Lightouse](#LIGHTHOUSE)
+>12. [Lighthouse](#LIGHTHOUSE)
 >13. [Accessibility](#Accessibility)
 >14. [Solved bugs and errors(#SOLVED BUGS AND ERRORS)
 >15. [Solved bugs and errors(#UNSOLVED BUGS AND ERRORS)
@@ -43,9 +41,9 @@ As well as tangible and visual data, Women in Leadership also gives examples of 
 ## INITIAL IDEA AND CONCEPT
 
 
-Having worked in corporate industry for the past 3 years it has become apparent the current drive for more women to be supported into leaderships roles and the knock on impact this is having on company outcomes and success. 
+Having worked in corporate industry for the past 3 years, it has become apparent the current drive for more women to be supported into leaderships roles.
 
-As a member of my company’s Women’s Network, I wanted a single website for my colleagues to visit in order to broaden their understanding of why we need more women in leadership but also to understand the impact this can have on companies overall success.
+As a member of my company’s Women’s Network, I wanted a single website for my colleagues to visit in order to broaden their understanding of why we need more women in leadership and to understand the impact this can have on companies overall success.
 -- - 
 FEATURES 
 
@@ -76,7 +74,7 @@ User story:
 ----
 
 Wireframes: Initial plans for my website and mobile design using wireframes. 
-![wireframe of page 1 women in leardership](https://github.com/brineamelia/P1-WIL/blob/main/docs/wireframe1.png)
+![wireframe of page 1 women in leadership](https://github.com/brineamelia/P1-WIL/blob/main/docs/wireframe1.png)
 
 ![wireframe of page 2 women in leadership](https://github.com/brineamelia/P1-WIL/blob/main/docs/wireframe2.png)
 
@@ -122,7 +120,7 @@ The Industry page will have a hero image and text outlining the current works of
 
 To ensure the user was easily able to navigate through the website the navbar has the page underlined indicating which page the user is viewing. 
 
-![navbar navitation to home, leaders and industry](https://github.com/brineamelia/P1-WIL/blob/main/docs/top-nav-bar.png)
+![navbar navigation to home, leaders and industry](https://github.com/brineamelia/P1-WIL/blob/main/docs/top-nav-bar.png)
 
 When using the footer, each link underlines as the user places their cursor over the link. 
 ![Example 1: footer with social media links](https://github.com/brineamelia/P1-WIL/blob/main/docs/easy-navigation.png)
@@ -161,7 +159,7 @@ USER STORY TESTING:
 The site has undergone multiple test across each page including a full validation for html and CSS. 
 As a user I wanted to understand the purpose of the website - this is supported by the home page with a welcome paragraph under the heading ‘Welcome to women in leadership”. 
 
-As a user I wanted an easy to navigate site. I included the top navigation bar which in tern underlines the page on which the user is veiwing. The navigation bar includes the titles of each of the pages in a clear font. 
+As a user I wanted an easy to navigate site. I included the top navigation bar which in tern underlines the page on which the user is viewing. The navigation bar includes the titles of each of the pages in a clear font. 
 
 As a user I wanted the site to contain images and text information in an attractive and easy to process format. This was achieved by ensure adequate spacing and neutral colouring around brightly coloured images. 
 
@@ -223,7 +221,7 @@ Leaders Page
 
 Industry Page
 
-![Lightouse report - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaderspage.png)
+![Lighthouse report - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaderspage.png)
 
 ## Accessibility: 
 
@@ -245,9 +243,9 @@ Industry Page
 
 Wave testing : Across all pages
 
-- Wave flagged a redundent link as an alert acros all three pages. This link sits within the navbar and acts as a "Home button". There is also a home link situated in the top left had corner of each page. I kept this in situ as I feel it assists with the navigation of the website. 
+- Wave flagged a redundant link as an alert across all three pages. This link sits within the navbar and acts as a "Home button". There is also a home link situated in the top left had corner of each page. I kept this in situ as I feel it assists with the navigation of the website. 
 
-Index page: Wave highlighted the underlining of the hero image text as an alert. I kept this as I wanted it to stand out and be the first text the reader saw/read. I kept the underline decoration to make it more eyecatching.  
+Index page: Wave highlighted the underlining of the hero image text as an alert. I kept this as I wanted it to stand out and be the first text the reader saw/read. I kept the underline decoration to make it more eye-catching.  
 
 --- ---
 ## SOLVED BUGS AND ERRORS 
@@ -260,7 +258,7 @@ When minimum hight was set this caused the hero image on the index page to then 
 
 If more time was available I would try and work out a more generic fix that would apply to all three pages without having to explicitly state a hight for this specific element.  
 
-I went through all the HTMl and CSS and removed any duolicate or unused code as well as removing unwanted lines and spaces. I used 
+I went through all the HTMl and CSS and removed any duplicate or unused code as well as removing unwanted lines and spaces. I used 
 
 ![image of bug on homepage](https://github.com/brineamelia/P1-WIL/blob/main/docs/bug1.png)
 
@@ -270,9 +268,9 @@ I went through all the HTMl and CSS and removed any duolicate or unused code as 
 
 ## UNSOLVED BUGS AND ERRORS
 
-These were flagged in the Lighthouse report section, with more time I would addresss these issues to bring the website performance up to 100%. 
+These were flagged in the Lighthouse report section, with more time I would address these issues to bring the website performance up to 100%. 
 
-With more time and knowledge I would like to add further pages and images including graphs and information on companies profitability. I would also like to add an optin to sign-up for a monthly newsletter and a short survey at the end of the last page.
+With more time and knowledge I would like to add further pages and images including graphs and information on companies profitability. I would also like to add an option to sign-up for a monthly newsletter and a short survey at the end of the last page.
 
 
 --- ---
@@ -292,7 +290,7 @@ GITHUB - used to store repositories, file and images pushed from gitpod
 
 Am I Responsive - used to test responsiveness of the website in different screen sizes - I want to used this - go to website - get picture)
 
-CHROME Developer tool - for checking compatibility, toubleshooting and editing code 
+CHROME Developer tool - for checking compatibility, troubleshooting and editing code 
 
 WAVE 
 
@@ -313,7 +311,7 @@ This site was deployed using GitHub Pages with the following the steps:
 
 - There will be a message box saying "Check it out here" Click on the link to take you to the next page
 
-- Here you will be greated with a form, Choose the repository Project-1
+- Here you will be greeted with a form, Choose the repository Project-1
 
 - Choose the branch in the drop down box, in this case MAIN
 
@@ -411,17 +409,17 @@ Leaders: Link to images on leaders page
 
 - [Five Questions for Several of FORTUNE's 50 Most Powerful Women](http://content.time.com/time/specials/packages/article/0,28804,2031904_2031902_2031892,00.html)
 
-- [Link to Mckinsey and Company](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
+- [Link to McKinsey and Company](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
 - [The Times Top 50 Employers for Women 2021](https://www.thetimes.co.uk/static/tt50/)
 
-- [Link to external socure CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
+- [Link to external source CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
 
 Industry: 
 
 - [Link to image on industry page](https://unsplash.com/)
 
-- [Link to Mckinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
+- [Link to McKinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
 README: link to imagine in README
 
@@ -438,7 +436,7 @@ Index page:
 - [W3 schools link](www.w3schools.com)
 - [Free Code Camp link](https://www.freecodecamp.org)
 
-Code institue: support with code and execution of webiste and design 
+Code institute: support with code and execution of website and design 
 - Ben Kavanagh 
 - Harry Leepz
 
@@ -459,3 +457,28 @@ Inspiration for README: layout and content:
 - Tutors at Code Institute 
 
 - Student care at The Learning People 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
