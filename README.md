@@ -425,7 +425,7 @@ Industry page:
 
 README:
 
-- [Responsiveness weblink](http://ami.responsivedesign.is/#)
+- [Responsiveness weblink](http://ami.responsivedesign.is/)
 
 I used the following to assist with my HTML and CSS Code:
 
