@@ -288,7 +288,7 @@ GITPOD - the IDE used to code this website
 
 GITHUB - used to store repositories, file and images pushed from gitpod 
 
-Am I Responsive - used to test responsiveness of the website in different screen sizes - I want to used this - go to website - get picture)
+Am I Responsive - used to test responsiveness of the website in different screen sizes 
 
 CHROME Developer tool - for checking compatibility, troubleshooting and editing code 
 
