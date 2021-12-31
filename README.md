@@ -16,12 +16,12 @@
 >11. [Manual Testing](#MANUAL-TESTING)
 >12. [Lighthouse](#LIGHTHOUSE)
 >13. [Accessibility](#Accessibility)
->14. [Solved bugs and errors(#SOLVED-BUGS-AND-ERRORS)
->15. [Solved bugs and errors(#UNSOLVED-BUGS-AND-ERRORS)
+>14. [Solved bugs and errors](#SOLVED-BUGS-AND-ERRORS)
+>15. [Solved bugs and errors](#UNSOLVED-BUGS-AND-ERRORS)
 >16. [Technologies](#TECHNOLOGIES)
 >17. [Programmes used](#PROGRAMMES-USED)
 >18. [Deployment](#DEPLOYMENT)
->19. [Credits and References](#CREDITS/REFERENCES)
+>19. [Credits and References](#CREDITS-AND-REFERENCES)
 >20. [Acknowledgements](#Acknowledgements)
 
 
@@ -384,7 +384,7 @@ At this point, you can launch the Gitpod workspace or choose your own directory
 
 --- --
 
-## CREDITS/REFERENCES:
+## CREDITS AND REFERENCES:
 
 Images and Information:
 
