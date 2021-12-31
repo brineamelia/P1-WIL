@@ -178,20 +178,21 @@ And the following web browsers:
 
 ## LIGHTHOUSE
 
-I ran each live webpage through Chrome Lighthouse and came out with an average performance of 85%. 
+I ran each live webpage through Chrome Lighthouse and came out with an average performance of 79%. 
 
 [Link to Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools)
 
 Index/Homepage
 
-![Lighthouse report index.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-index.png)
+![Lighthouse report - Index page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-homepage.png)
 
 Leaders Page
 
-![Lighthouse report leaders.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaders.png)
+![Lighthouse report - Leaders Page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-industrypage.png)
 
 Industry Page
-![Lighthouse report industry.html](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-industry.png)
+
+![Lightouse report - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaderspage.png)
 
 ## Accessibility: 
 
@@ -201,15 +202,15 @@ Accessibility testing using [Wave](https://wave.webaim.org/)
 
 Index/Homepage
 
-![Screenshot of Wave testing - Home page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave1.png)
+![Wave report - Index page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave-index.png)
 
 Leaders Page 
 
-![Screenshot of Wave testing - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave2.png)
+![Wave report - Leaders page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaderspage.png)
 
 Industry Page
 
-![Screenshor of Wave testing - Leaderes page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave3.png)
+![Wave report - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/wave-industry.png)
 
 Wave testing : Across all pages
 
