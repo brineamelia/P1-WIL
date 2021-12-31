@@ -7,7 +7,7 @@
 >3. [UX and UI](#UX-and-UI)
 >4. [Features](#FEATURES)
 >5. [Layout and Content](#Layout-and-Content)
->6. [Navbar effects and footer - social media links](#NAVBAR-EFFECTS-AND-FOOTER-SOCIAL-MEDIA-LINKS)
+>6. [Navbar and Footer](#NAVBAR-AND-FOOTER)
 >7. [Design](#DESIGN)
 >8. [Image](#IMAGE)
 >9. [Typography](#TYPOGRAPHY)
@@ -115,7 +115,7 @@ The Leaders page will have images and text of three different leaders, an extern
 
 The Industry page will have a hero image and text outlining the current works of three companies improving their diversity. It will also include an external link to the McKinsey and Co full diversity report.
 --- ---
-## NAVBAR-EFFECTS-AND-FOOTER - SOCIAL-MEDIA-LINKS
+## NAVBAR AND FOOTER
 
 To ensure the user is easily able to navigate through the website the navbar has the page underlined indicating which page the user is viewing. 
 
