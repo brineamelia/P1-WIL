@@ -4,7 +4,7 @@
 
 >1. [Purpose](#PURPOSE)
 >2. [Idea and Concept](#INITIAL-IDEA-AND-CONCEPT)
->3. [UX/UI](#UX/UI)
+>3. [UX and UI](#UX/UI)
 >4. [Features](#FEATURES)
 >5. [Layout and Content](#Layout-and-Content)
 >6. [Navbar effects and footer - social media links](#NAVBAR-EFFECTS-AND-FOOTER-SOCIAL-MEDIA-LINKS)
@@ -51,7 +51,7 @@ Across the website I wanted to include the continuous features of the top and bo
 
 --- ---
 
-## UX/UI:
+## UX and UI:
 
 - I created this website to demonstrate my knowledge and skills of HTML and CSS. 
 - I wanted a website users could visit to easily acquire insightful information that was both qualitative and quantitative. 
