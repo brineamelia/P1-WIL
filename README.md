@@ -392,6 +392,8 @@ I used the following websites to source my images and information:
 
 Homepage: 
 
+- [Link to tinyjpg for compressed images](https://tinyjpg.com/)
+
 - [link to image on index page](https://unsplash.com/)
 
 Leaders page:
