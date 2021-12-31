@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
 /* Styling across all three pages*/
 html {
   min-height: 100%;
@@ -7,9 +14,16 @@ body {
   background-color: whitesmoke;
   font-family: "Roboto", sans-serif;
   min-height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   margin: 0;
 }
 
@@ -36,15 +50,20 @@ p {
 
 .wil-link {
   background-color: grey;
-  box-shadow: 0 5px grey;
+  -webkit-box-shadow: 0 5px grey;
+          box-shadow: 0 5px grey;
   margin-top: 0;
 }
 
 /* Top nav bar*/
 .topnav {
   overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 .topnav a {
@@ -73,8 +92,12 @@ a {
 
 .bottomnav {
   overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 .bottomnav a {
@@ -100,6 +123,10 @@ a {
 
 /* hero image */
 .hero-image {
+
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../images/heroimage.jpeg");
+
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/heroimage.jpeg");
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/heroimage.jpeg");
 
@@ -165,8 +192,12 @@ a {
 }
 
 .image-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content:center;
+  -webkit-box-pack:center;
+      -ms-flex-pack:center;
+          justify-content:center;
 }
 
 .image-style {
@@ -185,9 +216,13 @@ a {
 
 /*button and button-wrapper*/
 .button2
-{flex-direction: column;
-    justify-content: center;
-    align-items: center;
+{-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     margin: auto;
     height: 5%;
     width:300px;
@@ -199,9 +234,12 @@ color:whitesmoke;
 background-color:#393e3e;
 border: none;
 border-radius: 50px;
-box-shadow: 0 6px whitesmoke;
+-webkit-box-shadow: 0 6px whitesmoke;
+        box-shadow: 0 6px whitesmoke;
 font-family: 'Roboto', sans-serif;
 text-decoration: none;
+display: -webkit-box;
+display: -ms-flexbox;
 display: flex;
 border:solid 2px whitesmoke;
 }
@@ -213,12 +251,19 @@ border:solid 2px whitesmoke;
 
 .button2:active {
   background-color: grey;
-  box-shadow: 0 5px grey;
-  transform: translateY(4px);
+  -webkit-box-shadow: 0 5px grey;
+          box-shadow: 0 5px grey;
+  -webkit-transform: translateY(4px);
+      -ms-transform: translateY(4px);
+          transform: translateY(4px);
 }
 .button2-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content:center;
+  -webkit-box-pack:center;
+      -ms-flex-pack:center;
+          justify-content:center;
   color: whitesmoke;
   text-align: center;
 }
@@ -282,6 +327,8 @@ border:solid 2px whitesmoke;
 /*image on industry page*/
 
 .industry-hero-image {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../images/diversity.jpeg");
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/diversity.jpeg");
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/diversity.jpeg");
   height: 80vh;
   background-position: center;
@@ -296,7 +343,9 @@ border:solid 2px whitesmoke;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
   color: whitesmoke;
   font-size: 1.5rem;
   text-shadow: 2px 2px 1px black;
@@ -312,7 +361,9 @@ border:solid 2px whitesmoke;
       text-align: center;
       position: absolute;
       left: 50%;
-      transform: translate(-50%, -50%);
+      -webkit-transform: translate(-50%, -50%);
+          -ms-transform: translate(-50%, -50%);
+              transform: translate(-50%, -50%);
       color: white;
       font-size: 1rem;
       text-shadow: 2px 2px 1px black;
@@ -327,7 +378,9 @@ border:solid 2px whitesmoke;
     text-align: center;
     position: absolute;
     left: 50%;
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
     color: white;
     font-size: 1.5rem;
     text-shadow: 2px 2px 1px black;
@@ -353,7 +406,9 @@ border:solid 2px whitesmoke;
     text-align: center;
     position: absolute;
     left: 50%;
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
     color: white;
     font-size: 1.5rem;
     text-shadow: 2px 2px 1px black;
@@ -368,7 +423,9 @@ border:solid 2px whitesmoke;
     text-align: center;
     position: absolute;
     left: 50%;
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
     color: white;
     font-size: 2.5rem;
     text-shadow: 2px 2px 1px black;
@@ -383,7 +440,9 @@ border:solid 2px whitesmoke;
     text-align: center;
     position: absolute;
     left: 50%;
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
     color: white;
     font-size: 2.5rem;
     text-shadow: 2px 2px 1px black;
