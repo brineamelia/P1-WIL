@@ -4,7 +4,7 @@
 
 >1. [Purpose](#PURPOSE)
 >2. [Idea and Concept](#INITIAL-IDEA-AND-CONCEPT)
->3. [UX and UI](#UX/UI)
+>3. [UX and UI](#UX-and-UI)
 >4. [Features](#FEATURES)
 >5. [Layout and Content](#Layout-and-Content)
 >6. [Navbar effects and footer - social media links](#NAVBAR-EFFECTS-AND-FOOTER-SOCIAL-MEDIA-LINKS)
@@ -16,7 +16,7 @@
 >12. [Lighthouse](#LIGHTHOUSE)
 >13. [Accessibility](#Accessibility)
 >14. [Solved bugs and errors](#SOLVED-BUGS-AND-ERRORS)
->15. [Solved bugs and errors](#UNSOLVED-BUGS-AND-ERRORS)
+>15. [Unsolved bugs and errors](#UNSOLVED-BUGS-AND-ERRORS)
 >16. [Technologies](#TECHNOLOGIES)
 >17. [Programmes used](#PROGRAMMES-USED)
 >18. [Deployment](#DEPLOYMENT)
@@ -115,7 +115,7 @@ The Leaders page will have images and text of three different leaders, an extern
 
 The Industry page will have a hero image and text outlining the current works of three companies improving their diversity. It will also include an external link to the McKinsey and Co full diversity report.
 --- ---
-## NAVBAR EFFECTS AND FOOTER - SOCIAL MEDIA LINKS
+## NAVBAR-EFFECTS-AND-FOOTER - SOCIAL-MEDIA-LINKS
 
 To ensure the user is easily able to navigate through the website the navbar has the page underlined indicating which page the user is viewing. 
 
@@ -217,11 +217,11 @@ Index/Homepage:
 
 Leaders Page:
 
-![Lighthouse report - Leaders Page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-industrypage.png)
+![Lighthouse report - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaderspage.png)
 
 Industry Page:
 
-![Lighthouse report - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaderspage.png)
+![Lighthouse report - Leaders Page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-industrypage.png)
 
 ## Accessibility: 
 
