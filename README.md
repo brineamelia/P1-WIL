@@ -423,7 +423,7 @@ Industry page:
 
 - [Link to McKinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
-README: link to imagine in README
+README: link to image in README
 
 - [Responsiveness weblink](http://ami.responsivedesign.is/#)
 
