@@ -3,23 +3,23 @@
 ## TABLE OF CONTENT
 
 >1. [Purpose](#PURPOSE)
->2. [Idea and Concept](#INITIAL IDEA AND CONCEPT)
+>2. [Idea and Concept](#INITIAL-IDEA-AND-CONCEPT)
 >3. [UX/UI](#UX/UI)
 >4. [Features](#FEATURES)
->5. [Layout and Content](#Layout and Content)
->6. [Navbar effects and footer - social media links](#NAVBAR EFFECTS AND FOOTER SOCIAL MEDIA LINKS
-)
+>5. [Layout and Content](#Layout-and-Content)
+>6. [Navbar effects and footer - social media links](#NAVBAR-EFFECTS-AND-FOOTER-SOCIAL-MEDIA-LINKS)
+
 >7. [Design](#DESIGN)
->8. [Image](# IMAGE)
+>8. [Image](#IMAGE)
 >9. [Typography](#TYPOGRAPHY)
 >10. [Testing](#TESTING)
->11. [Manual Testing](#MANUAL TESTING)
+>11. [Manual Testing](#MANUAL-TESTING)
 >12. [Lighthouse](#LIGHTHOUSE)
 >13. [Accessibility](#Accessibility)
->14. [Solved bugs and errors(#SOLVED BUGS AND ERRORS)
->15. [Solved bugs and errors(#UNSOLVED BUGS AND ERRORS)
+>14. [Solved bugs and errors(#SOLVED-BUGS-AND-ERRORS)
+>15. [Solved bugs and errors(#UNSOLVED-BUGS-AND-ERRORS)
 >16. [Technologies](#TECHNOLOGIES)
->17. [Programmes used](#PROGRAMMES USED)
+>17. [Programmes used](#PROGRAMMES-USED)
 >18. [Deployment](#DEPLOYMENT)
 >19. [Credits and References](#CREDITS/REFERENCES)
 >20. [Acknowledgements](#Acknowledgements)
@@ -31,9 +31,9 @@
 
 ## PURPOSE 
 
-This project highlights the conclusion of McKinsey and Company report of 'Diversity Wins: How Inclusion Matters’, written in May 2020. Women in Leadership offers a ‘one stop shop’ location to acquire a basic understanding of why we need to support women into leadership roles and the positive impact this is having on business outcomes. 
+This project, Women in Leadership, highlights the conclusion of McKinsey and Company's report of 'Diversity Wins: How Inclusion Matters 2020’. The purpose of this project is to highlight basic information on why we need to support women into leadership roles and the impact this can have on business outcomes. 
 
-As well as tangible and visual data, Women in Leadership also gives examples of female leaders in 2021 and companies currently supporting women into leadership roles. 
+As well as tangible and visual data, Women in Leadership gives examples of female leaders in 2021 and companies currently supporting women into leadership roles. 
 
 ![Responsive image of project](https://github.com/brineamelia/P1-WIL/blob/main/docs/responsive1.png)
 
@@ -41,20 +41,20 @@ As well as tangible and visual data, Women in Leadership also gives examples of 
 ## INITIAL IDEA AND CONCEPT
 
 
-Having worked in corporate industry for the past 3 years, it has become apparent the current drive for more women to be supported into leaderships roles.
+Having worked in corporate industry for the past 3 years, it has become apparent the current drive for more women to be supported into leaderships.
 
-As a member of my company’s Women’s Network, I wanted a single website for my colleagues to visit in order to broaden their understanding of why we need more women in leadership and to understand the impact this can have on companies overall success.
+As a member of my company’s Women’s Network, I wanted a single website for my colleagues to visit in order to broaden their understanding on why we need more women in leadership today. I wanted a website that would highlight the impact increased diversity is having on business outcomes and overall company success. 
 -- - 
 FEATURES 
 
-Across the website I wanted to include the continuous features of the top and bottom "navbar" and call to action buttons. I wanted the information to be easy to access and read, along with supplying external links to acquire further information. 
+Across the website I wanted to include the continuous features of the top and bottom "navbar" and call to action buttons. I wanted the information to be easy to access and read, along with supplying external links to further information. 
 
 --- ---
 
 ## UX/UI:
 
 - I created this website to demonstrate my knowledge and skills of HTML and CSS. 
-- I wanted a website users could visit to easily acquire insightful information both qualitative and quantitative on the site topic. 
+- I wanted a website users could visit to easily acquire insightful information that was both qualitative and quantitative. 
 - I wanted the website to be easy to navigate and to have links to external information. 
 - I wanted this webite to be ascetically pleasing with clear images. 
 
@@ -67,7 +67,7 @@ Site goals:
 User story:
 
 - As a user I wanted the site to be easy to navigate
-- As a user I wanted the site to be easy to read with data to support the written evidence 
+- As a user I wanted the site to be easy to read with data to support the written evidence.
 - As a user I wanted the site to be ascetically pleasing 
 - As a user I wanted the pages and links to be interactive 
 
@@ -87,7 +87,7 @@ The site consists of the following:
 
 Three main pages: Home, Leaders and Industry.
 
-Each page will have a top navigation bar including internal links to the home page, leaders page and industry page. 
+Each page will have a top navigation bar (navbar) including internal links to the home page, leaders page and industry page. 
 - Each page will have a footer including links to social media pages.
 - Each page will have an interactive element either a link to an external source or call to action
 - Each page will have an image to support the text or purpose of the website 
@@ -105,7 +105,7 @@ Footer:
 
 ## Layout and Content: 
 
-- Each page will have a top navigation bar including internal links to the home page, leaders page and industry page. 
+- Each page will have a top navbar including internal links to the home page, leaders page and industry page. 
 - Each page will have a footer including links to social media pages
 - Each page will have an interactive element either a link to an external source or call to action
 - Each page will have an image to support the text or purpose of the website 
@@ -114,11 +114,11 @@ The home page will have a hero-image, explantation of the purpose of the website
 
 The Leaders page will have images and text of three different leaders, an external link on how to improve diversity within a company and a call to action button. 
 
-The Industry page will have a hero image and text outlining the current works of three companies improving their diversity, along with an external link to the McKinsey and Co full diversity report.
+The Industry page will have a hero image and text outlining the current works of three companies improving their diversity. It will also include an external link to the McKinsey and Co full diversity report.
 --- ---
 ## NAVBAR EFFECTS AND FOOTER - SOCIAL MEDIA LINKS
 
-To ensure the user was easily able to navigate through the website the navbar has the page underlined indicating which page the user is viewing. 
+To ensure the user is easily able to navigate through the website the navbar has the page underlined indicating which page the user is viewing. 
 
 ![navbar navigation to home, leaders and industry](https://github.com/brineamelia/P1-WIL/blob/main/docs/top-nav-bar.png)
 
@@ -129,7 +129,7 @@ When using the footer, each link underlines as the user places their cursor over
 ## DESIGN:
 
 Colour scheme: 
-As this is an educational and factual website the colour scheme was kept neutral with shades of grey and white, see hex colours below. The images have bight bold colours and the call to actions has changing colours when hovered over, in order to keep the website engaging and eye-catching. 
+As this is an educational and factual website the colour scheme was kept neutral with shades of grey and white, see hex colours below. The images have bight bold colours and the call to actions have changing colours when hovered over. The above was added to keep the website engaging and eye-catching. 
 
 ![hex colour - white](https://github.com/brineamelia/P1-WIL/blob/main/docs/white.png)
 
@@ -156,10 +156,10 @@ The fonts used for the site were sourced from Google Fonts and included; ‘Robo
  ## TESTING:
 
 USER STORY TESTING:
-The site has undergone multiple test across each page including a full validation for html and CSS. 
+The site has undergone multiple test across each page including a full validation of html and CSS. 
 As a user I wanted to understand the purpose of the website - this is supported by the home page with a welcome paragraph under the heading ‘Welcome to women in leadership”. 
 
-As a user I wanted an easy to navigate site. I included the top navigation bar which in tern underlines the page on which the user is viewing. The navigation bar includes the titles of each of the pages in a clear font. 
+As a user I wanted an easy to navigate site. I included the top navbar which in tern underlines the page on which the user is viewing. The navbar includes the titles of each of the pages in a clear font. 
 
 As a user I wanted the site to contain images and text information in an attractive and easy to process format. This was achieved by ensure adequate spacing and neutral colouring around brightly coloured images. 
 
@@ -176,11 +176,11 @@ As a user I wanted to have access to further information not included on the web
 
 - All pages loaded correctly on all size devices that were checked
 
-- All social media links worked correctly 
+- All social media links worked correctly and opened in a new tab
 
 - All images loaded on each pages as expected 
 
-- All external links opened in a new tab and went to the correct website
+- All external links opened in a new tab and went to the correct website, opening in a new tab
 
 
 Devices: I tested the responsiveness and functionality of the website against the following devices: 
@@ -203,6 +203,7 @@ And the following web browsers:
 
 - Internet Explorer
 
+All were successful in displaying the website correctly with working links and clear iamges. 
 --- ---
 
 ## LIGHTHOUSE
@@ -211,15 +212,15 @@ I ran each live webpage through Chrome Lighthouse and came out with an average p
 
 [Link to Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools)
 
-Index/Homepage
+Index/Homepage:
 
 ![Lighthouse report - Index page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-homepage.png)
 
-Leaders Page
+Leaders Page:
 
 ![Lighthouse report - Leaders Page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-industrypage.png)
 
-Industry Page
+Industry Page:
 
 ![Lighthouse report - Industry page](https://github.com/brineamelia/P1-WIL/blob/main/docs/lighthouse-leaderspage.png)
 
@@ -292,9 +293,9 @@ Am I Responsive - used to test responsiveness of the website in different screen
 
 CHROME Developer tool - for checking compatibility, troubleshooting and editing code 
 
-WAVE 
+WAVE - To test accessability 
 
-TinyJpeg
+TinyJpeg - To compress the images on the website
 
 --- ---
 ## DEPLOYMENT
@@ -385,15 +386,15 @@ At this point, you can launch the Gitpod workspace or choose your own directory
 
 ## CREDITS/REFERENCES:
 
-Images:
+Images and Information:
 
-I used the following website to source my images and information: 
+I used the following websites to source my images and information: 
 
 Homepage: 
 
 - [link to image on index page](https://unsplash.com/)
 
-Leaders: Link to images on leaders page
+Leaders page:
 
 - [Link to images on leaders page](https://www.theceomagazine.com/business/management-leadership/female-ceos/)
 
@@ -415,7 +416,7 @@ Leaders: Link to images on leaders page
 
 - [Link to external source CREATING A MORE GENDER EQUAL WORKING WORLD](https://www.bitc.org.uk/gender/)
 
-Industry: 
+Industry page: 
 
 - [Link to image on industry page](https://unsplash.com/)
 
@@ -425,7 +426,7 @@ README: link to imagine in README
 
 - [Responsiveness weblink](http://ami.responsivedesign.is/#)
 
-HTML and CSS Code:
+I used the following to assit with my HTML and CSS Code:
 
 Index page: 
 
