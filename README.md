@@ -55,7 +55,7 @@ Across the website I wanted to include the continuous features of the top and bo
 - I created this website to demonstrate my knowledge and skills of HTML and CSS. 
 - I wanted a website users could visit to easily acquire insightful information that was both qualitative and quantitative. 
 - I wanted the website to be easy to navigate and to have links to external information. 
-- I wanted this webite to be ascetically pleasing with clear images. 
+- I wanted this website to be ascetically pleasing with clear images. 
 
 Site goals: 
 
@@ -202,7 +202,7 @@ And the following web browsers:
 
 - Internet Explorer
 
-All were successful in displaying the website correctly with working links and clear iamges. 
+All were successful in displaying the website correctly with working links and clear images. 
 --- ---
 
 ## LIGHTHOUSE
@@ -292,7 +292,7 @@ Am I Responsive - used to test responsiveness of the website in different screen
 
 CHROME Developer tool - for checking compatibility, troubleshooting and editing code 
 
-WAVE - To test accessability 
+WAVE - To test accessibility 
 
 TinyJpeg - To compress the images on the website
 
@@ -423,11 +423,11 @@ Industry page:
 
 - [Link to McKinsey and Company website and report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters#)
 
-README: link to image in README
+README:
 
 - [Responsiveness weblink](http://ami.responsivedesign.is/#)
 
-I used the following to assit with my HTML and CSS Code:
+I used the following to assist with my HTML and CSS Code:
 
 Index page: 
 
@@ -459,21 +459,6 @@ Inspiration for README: layout and content:
 - Tutors at Code Institute 
 
 - Student care at The Learning People 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
